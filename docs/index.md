@@ -1,4 +1,4 @@
-# Nathaneal Zimmerman MEGR2157-Portfolio
+# Nathaneal Zimmerman MEGR2156-Portfolio
 
 ![MEGR 2156-7 Title](MEGR2156title.png)
 
