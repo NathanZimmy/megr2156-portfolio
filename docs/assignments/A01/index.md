@@ -28,6 +28,11 @@ The fulcrum point is what holds the two handle and jaw pieces together and also 
 3) Hands- no tools required, but much less grip force and accuracy. 
 
 # Decide
+## Homepage Identity
 
+## Intentional Customization
+
+## My Document Standard
+The quality standard I am setting for myself is to be consistent in my efforts. I want this portfolio to show dedications in something good and it to be an even flow of effort throughout the semester.
 
 
