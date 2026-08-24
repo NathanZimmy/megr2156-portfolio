@@ -15,6 +15,7 @@ Analysis 2-
 - needle-nose pliers-
 
 Pliers, specifically needle-nose pliers, are one of the most common and basic tools, yet one of the most versatile and needed tools an engineer could own. Its primary function is to transmit force from your hand, applied at the handles, into a gripping force applied by the jaws and teeth of the pliers, allowing you to grab and hold, bend, crush, or manipulate small objects you wouldn't be able to with your hands. Its governing model or equation would be the basic lever equation: Fe x De = Fl Dl (Force applied x distance from force to fulcrum = load force x distance from load to fulcrum). In this case, Fe is the force from your hand onto the handle, De is the distance from your hand to the fulcrum, Fl is the force produced at the jaw, and Dl is the distance from the fulcrum to the contact of an object and the jaw. This works under the assumption that the pliers are a rigid body and the distances do not change when performing a task. 
+<img width="4284" height="5712" alt="IMG_1244" src="https://github.com/user-attachments/assets/d28bed1a-7bc8-4818-8bc4-574fa01cbb3e" />
 
 # Decide
 
