@@ -4,3 +4,6 @@ I am a mechanical engineering major at the University of North Carolina at Charl
 
 ## What does it mean to defend an engineering decision?
 Currently, I have no idea what it really means to defend an engineering decision, but I assume it would probably mean using evidence and reasoning, along with trial-and-error proof, to show that your decision works.
+
+
+I spent a total of about 6 hours on this assignment.
