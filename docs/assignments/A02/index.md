@@ -1,9 +1,7 @@
 # A2 – Truss Stress Analysis
 
 ## Objective
-The objective for this assignment is to design a basic lightweight planar truss using A500 steel or an alternative material, while following the specified constraints. Constraints consist of 
-
-
+The objective for this assignment is to design a basic lightweight planar truss using A500 steel or an alternative material, while following the specified measurements listed below. We are also to show all calculations for the required cross-sectional area of truss elements with a safety factor, create free-body diagrams for all joints and pins, show calculations for determining the pin sizes based on shear forces with a safety factor, solve all equations symbolically and numerically for both truss and pin design, and estimate the total weight of the truss and pins. Lastly, we are to create a CAD model with accurate dimensions and connections of the design we chose and then compare the CAD weight predictions to the hand calculations. Lastly, we are to document key engineering lessons learned from the process.
 <img width="320" height="194" alt="image" src="https://github.com/user-attachments/assets/78e9c3e8-249e-45f5-959b-db6fa12fc66d" />
 
 given parameters
