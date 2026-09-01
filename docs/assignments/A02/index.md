@@ -1,7 +1,7 @@
 # A2 – Truss Stress Analysis
 
 ## Objective
-
+The objective for this assignment is to design a basic lightweight planar truss using A500 steel or an alternative material, while following the specified constraints. Constraints consist of 
 
 ## Analyze
 
