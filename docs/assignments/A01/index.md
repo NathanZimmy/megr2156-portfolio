@@ -31,7 +31,7 @@ The fulcrum point is what holds the two handle and jaw pieces together and also 
 ## Homepage Identity
 
 ## Intentional Customization
-
+One intentional customization I made was changing the template color to black. I originally wanted a green closer in similarity to Charlotte green for school spirit, then I tried gold, but neither color was compatible, so I went with black for just a simple, sleek look that is easy on the eyes. Black is also a very useful color to match a lot of my other assignments because black is a very common color among most things, especially in the engineering field. Most engineers default to black when a design or project is being worked on before color is selected later, and this portfolio is currently a work in progress as I go through this course.
 ## My Document Standard
 The quality standard I am setting for myself is to be consistent in my efforts. I want this portfolio to show dedications in something good and it to be an even flow of effort throughout the semester.
 
