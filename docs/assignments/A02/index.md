@@ -14,6 +14,10 @@ Choose a P between 20 - 30 kN. a = .4 m, b = .3 m. Point A is a pin, and point B
 
 <img width="227" height="47" alt="image" src="https://github.com/user-attachments/assets/78aed67a-c57a-498c-9f75-dd122c2eae8f" />
 
+### Minimum Cross-Sectional Area
+
+[CamScanner 9-1-26 22.05(1).pdf](https://github.com/user-attachments/files/31718816/CamScanner.9-1-26.22.05.1.pdf)
+
 ## Analyze
 
 
