@@ -14,9 +14,12 @@ Choose a P between 20 - 30 kN. a = .4 m, b = .3 m. Point A is a pin, and point B
 
 <img width="227" height="47" alt="image" src="https://github.com/user-attachments/assets/78aed67a-c57a-498c-9f75-dd122c2eae8f" />
 
-### Minimum Cross-Sectional Area
+#### Minimum Cross-Sectional Area of Truss
 
 <img width="305" height="275" alt="image" src="https://github.com/user-attachments/assets/86a717cf-ad50-4c18-96f6-f42d0a0ec8ac" />
+
+#### Cross-Sectional Area of Pins
+
 
 ## Analyze
 
