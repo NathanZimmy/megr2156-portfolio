@@ -24,7 +24,7 @@ Determining the minimum cross-sectional area was far less time-consuming and a l
 
 <img width="294" height="144" alt="image" src="https://github.com/user-attachments/assets/942e42f8-8042-4064-bda0-08cdf95f8420" />
 
-TO find the approximate weight of the truss, I first had to do a little research. I know weight is equal to density multiplied by volume, but I don't know the volume of A500 grade C structural steel. After searching, I found the density to be .282 lb/in^3. I then found the total length of all the truss members and multiplied it by the cross-sectional area to get the volume. I then converted the volume from meters to inches so that my units would remain consistent. Lastly, I found the approximate weight by multiplying my found volume by the density I researched and got my truss weighs about 24lbs.
+To find the approximate weight of the truss, I first had to do a little research. I know weight is equal to density multiplied by volume, but I don't know the volume of A500 grade C structural steel. After searching, I found the density to be .282 lb/in^3. I then found the total length of all the truss members and multiplied it by the cross-sectional area to get the volume. I then converted the volume from meters to inches so that my units would remain consistent. Lastly, I found the approximate weight by multiplying my found volume by the density I researched and got my truss weighs about 24lbs.
 
 #### Cross-Sectional Area of Pins
 
