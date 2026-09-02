@@ -5,8 +5,12 @@ The objective for this assignment is to design a basic lightweight planar truss 
 
 <img width="320" height="194" alt="image" src="https://github.com/user-attachments/assets/78e9c3e8-249e-45f5-959b-db6fa12fc66d" />
 
-## Given parameters
+## Given Parameters
 Choose a P between 20 - 30 kN. a = .4 m, b = .3 m. Point A is a pin, and point B is a roller.
+[CamScanner 9-1-26 22.05(1).pdf](https://github.com/user-attachments/files/31718132/CamScanner.9-1-26.22.05.1.pdf)
+
+## Truss Sketches and Geometry Calculations
+
 
 ## Analyze
 
