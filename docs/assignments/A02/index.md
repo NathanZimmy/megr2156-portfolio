@@ -122,7 +122,13 @@ Here is my final product. The files to download my CAD model have been submitted
 
 [A2 truss aseembly.pdf](https://github.com/user-attachments/files/31767161/A2.truss.aseembly.pdf)
 
+## Lessons larned
+This assignment has taught me more about engineering and an engineering process than any other assignment I have done. I learned what it is like to be given a basic criteria and actually freewill to make decisions on what I am going to design and produce. In previous classes and school I have been given a straightforward list of instructions and step by step on what to do but this assignment let me make the decisions and document it on the way just like how engineering in the job field is like. I also learned how to make an assembly in SolidWorks. Ive made an assembly in Creo before but in SolidWorks I have only done parts before. So learning how to put the parts together was extremely useful and is a needed skill for the future. Lastly I learned how to put my learnings in solids to use. Using a safety factor and yield strengths to calculate minimum areas and cross sections but its for a real life concept and something I designed and not another word problem.
+
+I took a total of 8 hours to complete this assignment
 ## Sources
 
 https://www.botopsteelpipes.com/wp-content/uploads/ASTM-A500-Grade-C-Specification.pdf
+
+https://learnsolidworks.com/solidworks-tricks/measure-weight-solidworks
 
