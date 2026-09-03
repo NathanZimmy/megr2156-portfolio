@@ -31,13 +31,16 @@ To find the approximate weight of the truss, I first had to do a little research
 <img width="316" height="385" alt="image" src="https://github.com/user-attachments/assets/e597ffee-4210-4215-8539-f297a843de77" />
 
 Finding the cross-sectional area of the pins was pretty straightforward after already doing a relatively similar process for the truss. I started with my knowns and unknowns so I know what I have and what I need. We were given the yield strength of 170ksi, the density of .278 lb/in^3, a safety factor of 4, and that we are using a single-shear connection. Previously, I also found the Ay and By support forces. What I didn't know was the weight, the shear force, or the cross-sectional area. So I started by finding V. V is just the shear force acting through the pins, and since these pins are support pins, we can find it by getting the magnitude of the support forces Ay and By, which equaled to be 6.67kN. Then I took my shear stress equation tau=V/A and derived it down until I got the equation Amin= V/ (yield strenght/safety factor). I then converted the units for yield strength and shear force so that all my units would be consistent for finding weight later. After plugging in my values, I got that the minimum area of the pins is 0.0353in^2. I then used that to find the cross-section by rearranging the formula for the area of a circle, A = pi (d)^2/4, to get d=the square root of 4A/pi. After plugging in the values, I got that the diameter of the pins are .212in. Lastly, I needed to find the approximate weight of all the pins combined. I used the same equation I used for the truss, which is W=density multiplied by volume. The only thing different is I had to multiply that product by 4 to account for all 4 pins. After plugging in values, I got W=.0393L. L is not solved for yet because it is a dependent variable on how long I make the pins.
-## Analyze
 
+## CAD Modeling the Truss system
 
-## Decide
-_Which geometry did you select, and why? This is your first open design choice in the course — defend it._
+<img width="723" height="280" alt="image" src="https://github.com/user-attachments/assets/92fc0898-4731-4c2d-93a2-475c1432fc98" />
 
-## Communicate
+To start with the model, I thought it would be easiest to just make the framework and add in the geometry. I converted everything to millimeters and added the dimensions to prepare for an extrude. But I quickly ran into a problem as my angled members (members BC and AD) weren't closing, and I couldn't extrude until they were closed geometry. So I had to start experimenting to find how to close these sketches.  
+
+At first, I thought I didn't add all the lines to enclose the shape, so I tried overlapping a line onto the shapes that were already enclosed. But that didn't work, and the geometry still came up open.
+
+<img width="276" height="257" alt="image" src="https://github.com/user-attachments/assets/d3162d8a-0784-4a44-a7df-4285a5f49264" />
 
 ## Sources
 
