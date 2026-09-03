@@ -95,6 +95,14 @@ I then went and sketched a circle on each of the center points and made the diam
 <img width="767" height="242" alt="image" src="https://github.com/user-attachments/assets/dd7093e4-ac55-40e2-a9b2-5db7cda18e16" />
 
  Lastly, I did an extrude cut and set it to through all to finish the holes for my pins. This completes the CAD model before inserting the pins.
+ 
+<img width="261" height="181" alt="image" src="https://github.com/user-attachments/assets/9ab41e35-e216-43d5-ba06-9561553ff59d" />
+
+<img width="272" height="274" alt="image" src="https://github.com/user-attachments/assets/b32f628a-00eb-4e43-9b52-c6ab5e7228e6" />
+
+ The pins themselves were very simple to create. I started a sketch on the top plane where I drew a circle and gave it a diameter of 5.38mm. I then extruded that circle to a lenth of 20mm which is the same length as the cross section for the truss.
+
+ Lastly, I had to create an assembly to combine my pins and truss. 
 ## Sources
 
 https://www.botopsteelpipes.com/wp-content/uploads/ASTM-A500-Grade-C-Specification.pdf
