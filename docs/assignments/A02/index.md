@@ -66,6 +66,8 @@ That idea ended up working, and when I added another sketch onto the same plane 
  
 <img width="360" height="203" alt="image" src="https://github.com/user-attachments/assets/d80c1756-4ef0-4078-b726-9363b47034c4" />
 
+This  is the final truss before adding the pinholes and pins.
+
 <img width="386" height="267" alt="image" src="https://github.com/user-attachments/assets/43220a7b-4685-4902-9b7c-621737b39999" />
 
 <img width="386" height="267" alt="image" src="https://github.com/user-attachments/assets/f0d2684c-3d78-45ea-880f-d86317c26da3" />
