@@ -108,7 +108,17 @@ I then went and sketched a circle on each of the center points and made the diam
 
 <img width="254" height="304" alt="image" src="https://github.com/user-attachments/assets/05e9cf35-ad95-4a34-90eb-12c78e8dabf8" />
 
- Lastly, I had to create an assembly to combine my pins and truss. I started by adding the truss and one of the pins and coincident the pin into place. I used the mate feature to first move the pin on the same center axis as the whole, then a second mate feature to align the top of the pin to the surface of the truss. I did this same process for all four pins.
+<img width="159" height="211" alt="image" src="https://github.com/user-attachments/assets/9e5097c5-f80d-4886-88bb-34382bf77ca6" />
+
+<img width="205" height="142" alt="image" src="https://github.com/user-attachments/assets/3a100540-b03b-4b19-906a-f1ba18b1bf2e" />
+
+<img width="294" height="197" alt="image" src="https://github.com/user-attachments/assets/3f3caba3-2568-43f8-9eff-8fb4ad7fb3fc" />
+
+ Lastly, I had to create an assembly to combine my pins and truss. I started by adding the truss and one of the pins and coincident the pin into place. I used the mate feature to first move the pin on the same center axis as the whole, then a second mate feature to align the top of the pin to the surface of the truss. I did the same process for all four pins.
+
+ <img width="721" height="248" alt="image" src="https://github.com/user-attachments/assets/47abfc9c-0386-4404-823a-43686877b409" />
+
+Here is my final product.
 ## Sources
 
 https://www.botopsteelpipes.com/wp-content/uploads/ASTM-A500-Grade-C-Specification.pdf
