@@ -68,9 +68,7 @@ That idea ended up working, and when I added another sketch onto the same plane 
 
 This  is the final truss before adding the pinholes and pins.
 
-<img width="386" height="267" alt="image" src="https://github.com/user-attachments/assets/43220a7b-4685-4902-9b7c-621737b39999" />
-
-<img width="386" height="267" alt="image" src="https://github.com/user-attachments/assets/f0d2684c-3d78-45ea-880f-d86317c26da3" />
+<img width="448" height="280" alt="image" src="https://github.com/user-attachments/assets/851fa5d8-a58d-4fa3-a4d2-0c2f6b6261ac" />
 
 <img width="397" height="257" alt="image" src="https://github.com/user-attachments/assets/5a954922-ef34-414c-bbfe-c15f64ac3961" />
 
@@ -79,6 +77,16 @@ This  is the final truss before adding the pinholes and pins.
 <img width="736" height="308" alt="image" src="https://github.com/user-attachments/assets/9f9763ac-5620-4ebf-8b59-6ebbf7df165a" />
 
 Next, I had to add holes for each of my pins. I already found the minimum area, which is .0353 in^2 or .897mm^2 and the minimum diameter needed for the pins, which is .212 in or 5.38mm. So, to start modeling, I added two centerlines perpendicular to each other so I could extrude the hole in the center of the member. I did this for each pin hole.
+
+<img width="215" height="185" alt="image" src="https://github.com/user-attachments/assets/6798b29a-1ad9-4851-9150-52d27cc513c2" />
+
+<img width="262" height="292" alt="image" src="https://github.com/user-attachments/assets/134ef112-53af-498c-a931-a1cd3c27c8f7" />
+
+<img width="192" height="215" alt="image" src="https://github.com/user-attachments/assets/ee5f8399-a221-4ddb-b3d1-f6a201775708" />
+
+<img width="285" height="161" alt="image" src="https://github.com/user-attachments/assets/5ab98861-7df4-476d-b989-16a9670c6219" />
+
+I then went and sketched a circle on each of the center points and made the diameter of the circles 5.38mm. These will be the pin holes.
  
 ## Sources
 
