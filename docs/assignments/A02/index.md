@@ -38,9 +38,19 @@ Finding the cross-sectional area of the pins was pretty straightforward after al
 
 To start with the model, I thought it would be easiest to just make the framework and add in the geometry. I converted everything to millimeters and added the dimensions to prepare for an extrude. But I quickly ran into a problem as my angled members (members BC and AD) weren't closing, and I couldn't extrude until they were closed geometry. So I had to start experimenting to find how to close these sketches.  
 
+<img width="276" height="257" alt="image" src="https://github.com/user-attachments/assets/d3162d8a-0784-4a44-a7df-4285a5f49264" />
+
 At first, I thought I didn't add all the lines to enclose the shape, so I tried overlapping a line onto the shapes that were already enclosed. But that didn't work, and the geometry still came up open.
 
-<img width="276" height="257" alt="image" src="https://github.com/user-attachments/assets/d3162d8a-0784-4a44-a7df-4285a5f49264" />
+<img width="423" height="150" alt="image" src="https://github.com/user-attachments/assets/41969e46-bf0c-4d52-b38b-ce52912760d5" />
+
+So then I went ahead and extruded the sketches that were enclosed to see if I could add onto it later and that might fix my open geometry.
+
+<img width="475" height="174" alt="image" src="https://github.com/user-attachments/assets/ed4f9e2d-ad70-4492-85ad-d3b8d61cf7de" />
+
+<img width="653" height="192" alt="image" src="https://github.com/user-attachments/assets/16581ad6-213e-4d4f-9292-e15b463c948b" />
+
+That idea ended up working, and when I added another sketch onto the same plane as before (I chose the top plane), the geometries came up enclosed. However, I was skeptical that when I extruded it, they wouldn't come up connected and it would have a line in between the two extrudes showing they weren't one solid figure. But that did not happen, and it all came out as one solid shape.
 
 ## Sources
 
