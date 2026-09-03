@@ -122,13 +122,27 @@ Here is my final product. The files to download my CAD model have been submitted
 
 [A2 truss aseembly.pdf](https://github.com/user-attachments/files/31767161/A2.truss.aseembly.pdf)
 
-## Lessons larned
-This assignment has taught me more about engineering and an engineering process than any other assignment I have done. I learned what it is like to be given a basic criteria and actually freewill to make decisions on what I am going to design and produce. In previous classes and school I have been given a straightforward list of instructions and step by step on what to do but this assignment let me make the decisions and document it on the way just like how engineering in the job field is like. I also learned how to make an assembly in SolidWorks. Ive made an assembly in Creo before but in SolidWorks I have only done parts before. So learning how to put the parts together was extremely useful and is a needed skill for the future. Lastly I learned how to put my learnings in solids to use. Using a safety factor and yield strengths to calculate minimum areas and cross sections but its for a real life concept and something I designed and not another word problem.
+#### SolidWorks Mass Approximation
 
-I took a total of 8 hours to complete this assignment
+<img width="347" height="401" alt="image" src="https://github.com/user-attachments/assets/75c8077f-4715-46aa-94e6-34d26cc22d51" />
+
+<img width="350" height="396" alt="image" src="https://github.com/user-attachments/assets/77245203-72c0-480f-bf62-ea3aa32ed099" />
+
+I had a little trouble finding the approximate mass using SolidWorks at first because SolidWorks does not contain the materials we used in this assignment. I used A500 steel grade C and hardened tool steel. So, I had to manually create new materials and add the properties for each. I went online to find the properties, and my sources are linked below.
+
+<img width="338" height="308" alt="image" src="https://github.com/user-attachments/assets/a16ecc87-ca39-458e-86e4-3da4c766ba54" />
+
+After inserting my material values and setting the parts to the correct material, I was able to generate an approximate mass.
+
+## Lessons learned
+This assignment has taught me more about engineering and the engineering process than any other assignment I have done. I learned what it is like to be given basic criteria and actually free will to make decisions on what I am going to design and produce. In previous classes and school, I have been given a straightforward list of instructions and step-by-step guidance on what to do, but this assignment let me make the decisions and document it along the way, just like how engineering in the job field is like. I also learned how to make an assembly in SolidWorks. I've made an assembly in Creo before, but in SolidWorks I have only done parts before. So learning how to put the parts together was extremely useful and is a needed skill for the future. Lastly, I learned how to put my learnings in solids to use. Using a safety factor and yield strength to calculate minimum areas and cross sections, but it's for a real-life concept and something I designed, not another word problem.
+
+I took a total of 10 hours to complete this assignment
 ## Sources
 
 https://www.botopsteelpipes.com/wp-content/uploads/ASTM-A500-Grade-C-Specification.pdf
+
+https://www.beamdimensions.com/materials/Steel/ASTM/ASTM_A500/#Grade_C
 
 https://learnsolidworks.com/solidworks-tricks/measure-weight-solidworks
 
