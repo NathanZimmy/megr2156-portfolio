@@ -87,7 +87,14 @@ Next, I had to add holes for each of my pins. I already found the minimum area, 
 <img width="285" height="161" alt="image" src="https://github.com/user-attachments/assets/5ab98861-7df4-476d-b989-16a9670c6219" />
 
 I then went and sketched a circle on each of the center points and made the diameter of the circles 5.38mm. These will be the pin holes.
- 
+
+<img width="646" height="273" alt="image" src="https://github.com/user-attachments/assets/19170665-46c3-4010-b824-54ccd2c281d3" />
+
+<img width="206" height="220" alt="image" src="https://github.com/user-attachments/assets/6b170dad-993d-460f-85e3-012bfe23c2e8" />
+
+<img width="767" height="242" alt="image" src="https://github.com/user-attachments/assets/dd7093e4-ac55-40e2-a9b2-5db7cda18e16" />
+
+ Lastly, I did an extrude cut and set it to through all to finish the holes for my pins. This completes the CAD model before inserting the pins.
 ## Sources
 
 https://www.botopsteelpipes.com/wp-content/uploads/ASTM-A500-Grade-C-Specification.pdf
