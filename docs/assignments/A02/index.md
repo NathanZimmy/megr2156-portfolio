@@ -60,13 +60,13 @@ That idea ended up working, and when I added another sketch onto the same plane 
 
 <img width="529" height="212" alt="image" src="https://github.com/user-attachments/assets/7472a1f7-6a45-42dc-906d-b540d6a7578c" />
 
-<img width="412" height="226" alt="image" src="https://github.com/user-attachments/assets/29e2eb08-7136-4d8c-b78a-e6c3bd30d420" />
+<img width="184" height="166" alt="image" src="https://github.com/user-attachments/assets/bacab80a-1ecd-4749-9705-4f2c6c190d01" />
 
  But I quickly realized my mistake and realized what I needed to do. I added a centerline from the vertices on the inside of A and C. This showed me where I needed to place my sketch to have it centered properly. I added the dimensions, making the width 20 mm, and added a dimension of 10mm from the centerline on each side so it would be centered. 
  
 <img width="360" height="203" alt="image" src="https://github.com/user-attachments/assets/d80c1756-4ef0-4078-b726-9363b47034c4" />
 
- This is the final model of the truss before adding in the pins.
+ This is the final model of the truss before adding the pins.
  
 ## Sources
 
