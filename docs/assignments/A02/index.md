@@ -118,7 +118,10 @@ I then went and sketched a circle on each of the center points and made the diam
 
  <img width="721" height="248" alt="image" src="https://github.com/user-attachments/assets/47abfc9c-0386-4404-823a-43686877b409" />
 
-Here is my final product.
+Here is my final product. The files to download my CAD model have been submitted on Canvas and are linked below.
+
+[A2 truss aseembly.pdf](https://github.com/user-attachments/files/31767161/A2.truss.aseembly.pdf)
+
 ## Sources
 
 https://www.botopsteelpipes.com/wp-content/uploads/ASTM-A500-Grade-C-Specification.pdf
