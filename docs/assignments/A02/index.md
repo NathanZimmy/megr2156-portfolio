@@ -100,9 +100,15 @@ I then went and sketched a circle on each of the center points and made the diam
 
 <img width="272" height="274" alt="image" src="https://github.com/user-attachments/assets/b32f628a-00eb-4e43-9b52-c6ab5e7228e6" />
 
- The pins themselves were very simple to create. I started a sketch on the top plane where I drew a circle and gave it a diameter of 5.38mm. I then extruded that circle to a lenth of 20mm which is the same length as the cross section for the truss.
+ The pins themselves were very simple to create. I started a sketch on the top plane where I drew a circle and gave it a diameter of 5.38mm. I then extruded that circle to a length of 20mm which is the same length as the cross-section for the truss.
 
- Lastly, I had to create an assembly to combine my pins and truss. 
+<img width="253" height="175" alt="image" src="https://github.com/user-attachments/assets/4b21e44a-5f00-4c68-9981-f09ef359c013" />
+
+<img width="289" height="202" alt="image" src="https://github.com/user-attachments/assets/8ccb3237-de13-4437-88a4-bcb4b6c06c10" />
+
+<img width="254" height="304" alt="image" src="https://github.com/user-attachments/assets/05e9cf35-ad95-4a34-90eb-12c78e8dabf8" />
+
+ Lastly, I had to create an assembly to combine my pins and truss. I started by adding the truss and one of the pins and coincident the pin into place. I used the mate feature to first move the pin on the same center axis as the whole, then a second mate feature to align the top of the pin to the surface of the truss. I did this same process for all four pins.
 ## Sources
 
 https://www.botopsteelpipes.com/wp-content/uploads/ASTM-A500-Grade-C-Specification.pdf
