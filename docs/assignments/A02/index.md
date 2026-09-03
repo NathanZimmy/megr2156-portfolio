@@ -52,11 +52,16 @@ So then I went ahead and extruded the sketches that were enclosed to see if I co
 
 That idea ended up working, and when I added another sketch onto the same plane as before (I chose the top plane), the geometries came up enclosed. However, I was skeptical that when I extruded it, they wouldn't come up connected and it would have a line in between the two extrudes showing they weren't one solid figure. But that did not happen, and it all came out as one solid shape.
 
-<img width="571" height="242" alt="image" src="https://github.com/user-attachments/assets/8ef74225-9737-4471-b02a-e10ac71fe1fb" />
+<img width="576" height="239" alt="image" src="https://github.com/user-attachments/assets/ad98a56b-b4a3-485d-bc97-ffe435371f59" />
 
 <img width="666" height="263" alt="image" src="https://github.com/user-attachments/assets/f078b1e5-fe4e-4535-b5b5-2b7ac4f4af1e" />
 
- I then needed to add the last slanted member (member AC), which I had a little trouble with. I started by adding a third sketch onto the top plane and adding in the lines like I did the last two members. But when I did that, it came out way out of dimension and not the right lengths.
+ I then needed to add the last slanted member (member AC), which I had a little trouble with. I started by adding a third sketch onto the top plane and adding in the lines as I did for the last two members. But when I did that, it came out way out of dimension and not the right lengths.
+
+<img width="529" height="212" alt="image" src="https://github.com/user-attachments/assets/7472a1f7-6a45-42dc-906d-b540d6a7578c" />
+
+ But I quickly realized my mistake and realized what I needed to do. I added a centerline from the vertices on the inside of A and C. This showed me where I needed to place my sketch to have it centered properly. I added the dimensions, making the width 20 mm, and added a dimension of 10mm from the centerline on each side so it would be centered. 
+ 
 ## Sources
 
 https://www.botopsteelpipes.com/wp-content/uploads/ASTM-A500-Grade-C-Specification.pdf
