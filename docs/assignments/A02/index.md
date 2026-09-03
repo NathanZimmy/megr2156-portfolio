@@ -52,6 +52,11 @@ So then I went ahead and extruded the sketches that were enclosed to see if I co
 
 That idea ended up working, and when I added another sketch onto the same plane as before (I chose the top plane), the geometries came up enclosed. However, I was skeptical that when I extruded it, they wouldn't come up connected and it would have a line in between the two extrudes showing they weren't one solid figure. But that did not happen, and it all came out as one solid shape.
 
+<img width="571" height="242" alt="image" src="https://github.com/user-attachments/assets/8ef74225-9737-4471-b02a-e10ac71fe1fb" />
+
+<img width="666" height="263" alt="image" src="https://github.com/user-attachments/assets/f078b1e5-fe4e-4535-b5b5-2b7ac4f4af1e" />
+
+ I then needed to add the last slanted member (member AC), which I had a little trouble with. I started by adding a third sketch onto the top plane and adding in the lines like I did the last two members. But when I did that, it came out way out of dimension and not the right lengths.
 ## Sources
 
 https://www.botopsteelpipes.com/wp-content/uploads/ASTM-A500-Grade-C-Specification.pdf
