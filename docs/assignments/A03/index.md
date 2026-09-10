@@ -17,9 +17,14 @@ The bar must be made out of aluminium with a range of Young’s Modulus from (8.
 ## Calculations
 Before I am able to start modeling on this project, I must first calculate the beam I am working with. To start, I need to choose a diameter and solve for the area. I chose 0.5in and used the area of a circle to find the area is .19635in^2. I then needed to choose a force for this beam. We are allowed 300lbf to 500lbf, so I chose the maximum force allowed at 500 lbf. I did this because I want to solve for the strongest bar I can. Lastly, I needed to choose a material from SolidWorks to get Young's Modulus. I went online to search for which aluminum alloys are the strongest in terms of resistance to permanent deformation and found that 7075-T6 works very well for this, and SolidWorks also has it in its material list. So, I chose this material, and it has an elastic modulus of 72000MPa. I can convert this to PSI and get 10.44x10^6PSI and this fits in the required range. Now that I have all the values, I can solve for the length using the axial deflection equation. If I solve for L and then put in my values, I get that my bar needs to be 36.90in.
 
+[CamScanner 9-10-26 07.09.pdf](https://github.com/user-attachments/files/32055852/CamScanner.9-10-26.07.09.pdf)
 
 ## Solidworks Design
-Now that I know my bar's properties, I am able to start CAD modeling it.
+<img width="199" height="173" alt="image" src="https://github.com/user-attachments/assets/d9fabb1b-3af8-49f2-b596-47a511cb3289" />
+
+<img width="779" height="485" alt="image" src="https://github.com/user-attachments/assets/0326681f-2842-4d85-805c-1d05f82b65ae" />
+
+Now that I know my bar's properties, I am able to start CAD modeling it. I started with a sketch on the top plane and drew a circle with a diameter of 5in. I also went ahead and changed the material to 7075-T6(SN).
 
 ## sources
 https://rochemetal.com/tools/aluminum-alloy-selector/
