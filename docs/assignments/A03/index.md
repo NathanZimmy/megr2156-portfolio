@@ -68,6 +68,11 @@ The axial deflection I used in my hand calculations was 0.009in, and the value g
 I learned a lot of things on how to use SolidWorks more efficiently, as well as being able to simulate forces and run tests. Setting equations and using global variables makes things much faster when modeling, as well as lowering the chance of error by typing in the wrong value. I also learned you can implement a fixed geometry and forces on your models in SolidWorks to check your math and see what is actually happening to the things you design. This will make designing and modeling much better for future projects and designs.
 
 I spent a total of two and a half hours on this project.
+
+## Cad Files
+[lecture A3 beam.zip](https://github.com/user-attachments/files/32057937/lecture.A3.beam.zip)
+
+
 ## sources
 https://rochemetal.com/tools/aluminum-alloy-selector/
 
