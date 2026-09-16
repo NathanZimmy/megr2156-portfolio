@@ -74,6 +74,16 @@ Feature 2 was much easier to solve for since we didn't have to worry about the f
 <img width="257" height="235" alt="image" src="https://github.com/user-attachments/assets/1a621c86-c103-4d52-acac-99291c28369e" />
 
 To start, I went in and changed the units to mm and then started a sketch on the top plan and drew a simple rectangle. I then extruded that rectangle by the thickness of feature one I solved for earlier, of 20mm.
+
+<img width="700" height="334" alt="image" src="https://github.com/user-attachments/assets/ae1c3873-0614-442e-92d0-e96c0564469a" />
+
+Next, I added feature two by starting a sketch on the top of the previous extrude. I set the thickness to 18 and extruded it to a length of 40.
+
+<img width="581" height="201" alt="image" src="https://github.com/user-attachments/assets/5aeaa0ca-cfd5-41d4-9d56-efe875570ded" />
+
+<img width="296" height="301" alt="image" src="https://github.com/user-attachments/assets/239f562b-c329-42f8-9e8e-07582ed052fe" />
+
+Now I had to add the bolt holes and space for the motor to fit. I went based on the appendix image given for the measurements and depths to make the cuts. First, I started a sketch on feature 1 and made two center lines that intersected so I knew where the center of the shape is. Next, I drew a circle on the center intersection point with a diameter of 18mm. I then extrude cut that circle with a depth of 2mm
 ## Decide
 
 
