@@ -20,12 +20,27 @@ Assume the safety factor accounts for the holes for the motor shaft and the scre
 
 -Weight is negligible
 
+### Material Research
+<ins>ABS</ins>
+Yield Strength = 29.6 - 48 MPa
+Young's Modulus = 1.79 - 3.2 GPa
 
-## Analyze
+<ins>PLA</ins>
+Yield strength = 8.00 - 103 MPa
+Young's Modulus = 2.96 - 3.60 GPa at temperatures of 30 to 110° Celsius
+
+<ins>PETG</ins>
+Yield strength = 28.3 - 101 MPa
+Young's Modulus = 1.10 - 20.3 GPa
+
+## Feature 1
 
 
 ## Decide
 
 
-## Communicate
+## Sources
+https://www.matweb.com/search/DataSheet.aspx?MatGUID=ab96a4c0655c4018a8785ac4031b9278&ckck=1
+https://www.specialchem.com/plastics/guide/acrylonitrile-butadiene-styrene-abs-plastic
+https://www.omc-stepperonline.com/brushed-24v-dc-gear-motor-3-6kg-cm-46rpm-w-99-5-1-planetary-gearbox-pa28-28245800-g100
 
