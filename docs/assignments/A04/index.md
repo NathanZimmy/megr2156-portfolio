@@ -5,6 +5,9 @@ The task we were given is to design a motor mount for a (Brushed 24V DC Gear Mot
 
 <img width="100" height="84" alt="image" src="https://github.com/user-attachments/assets/de8e6c9c-15d7-4a03-8b1a-e32aef8888d8" />
 
+<img width="365" height="339" alt="image" src="https://github.com/user-attachments/assets/60de88a3-fff4-4b05-9c55-f2e2b9873d3b" />
+<img width="215" height="141" alt="image" src="https://github.com/user-attachments/assets/8c9221f2-15f2-4881-bd81-9c39bc2f91e6" />
+Image of motor and physical dimensions
 ### Criteria
 -Can use PETG, PLA, or ABS
 
@@ -31,7 +34,11 @@ Young's Modulus = 1.79 - 3.2 GPa
 
 Yield strength = 8.00 - 103 MPa
 
-Young's Modulus = 2.96 - 3.60 GPa at temperatures of 30 to 110° Celsius
+Yield strength = 46.0 - 49.0 MPa at temperatures of 30 to 110° Celsius
+Average value: 45.2 MPa
+
+Young's Modulus = 0.00232 - 13.8 GPa
+Average value: 2.35 GPa
 
 <ins>PETG</ins>
 
@@ -40,7 +47,7 @@ Yield strength = 28.3 - 101 MPa
 Young's Modulus = 1.10 - 20.3 GPa
 
 ## Feature 1
-
+Feature 1 is the piece that the motor is connected to. I decided to go with PLA for my design because I am familiar with how it works and I've printed with it before. After using the given websites, I found that it has a yield strength of 8.00 - 103 MPa and a Modulus of elasticity of 0.00232 - 13.8 GPa. It also listed the average values for both of those measurements at 45.2MPa and 2.35GPa. I decided to use the average values since that's what would be most common. 
 
 ## Decide
 
