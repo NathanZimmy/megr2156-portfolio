@@ -7,11 +7,17 @@ The task we were given is to design a motor mount for a (Brushed 24V DC Gear Mot
 
 ### Criteria
 -Can use PETG, PLA, or ABS
+
 -Safety factor of 3
+
 -Maximum deflection of .30mm
+
 -P=300N
+
 -Design as cantilever beams
+
 Assume the safety factor accounts for the holes for the motor shaft and the screws in your calculation
+
 -Weight is negligible
 
 
