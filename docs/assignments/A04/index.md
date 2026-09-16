@@ -49,8 +49,15 @@ Yield strength = 28.3 - 101 MPa
 Young's Modulus = 1.10 - 20.3 GPa
 
 ## Feature 1
-Feature 1 is the piece that the motor is connected to. I decided to go with PLA for my design because I am familiar with how it works and I've printed with it before. After using the given websites, I found that it has a yield strength of 8.00 - 103 MPa and a Modulus of elasticity of 0.00232 - 13.8 GPa. It also listed the average values for both of those measurements at 45.2MPa and 2.35GPa. I decided to use the average values since that's what would be most common. 
+Feature 1 is the piece that the motor is connected to. I decided to go with PLA for my design because I am familiar with how it works and I've printed with it before. After using the given websites, I found that it has a yield strength of 8.00 - 103 MPa and a Modulus of elasticity of 0.00232 - 13.8 GPa. It also listed the average values for both of those measurements at 45.2MPa and 2.35GPa. I decided to use the average values since that's what would be most common. Next, I had to choose a length and width for my design. I did this by looking at the given motor measurements. The motor body is about 27.7 mm diameter × 38 mm, the gearbox is 28 mm diameter × 36.6 mm, and the shaft is 6 mm diameter × 18 mm long. So I chose to make my length 50mm and my width 40mm to give myself some working room and have it be an even number. 
 
+<img width="302" height="241" alt="image" src="https://github.com/user-attachments/assets/b5a1dc68-7fa6-48ac-ade5-7a1c0ca4dbe0" />
+
+This was my first attempt at designing, but I restarted after realizing that solving the feature vertically was unnecessary. 
+
+<img width="263" height="315" alt="image" src="https://github.com/user-attachments/assets/10231f64-9420-4398-9f42-88f58aa2a959" />
+
+To start solving, I first drew my free-body diagram and labeled my forces. We are given that M = PL, so with that I can label my moment and know that P goes at the very end of the feature because M = PL; we use the same length of distance that I chose earlier. I then solved my static equations and got M=15000N*mm. Then I solved for maximum strength using the bending equation. I calculated that the height needs to be at least 12.22mm. Lastly, I calculated for maximum deflection using the given equation and found the height needs to be a minimum of 19.98mm. Since the deflection value is larger, that's the height I will go with. To make it easier, I will be rounding up to 20.0mm to be safer and make modeling and designing easier.
 ## Decide
 
 
