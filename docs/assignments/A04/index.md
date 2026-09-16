@@ -53,11 +53,27 @@ Feature 1 is the piece that the motor is connected to. I decided to go with PLA 
 
 <img width="302" height="241" alt="image" src="https://github.com/user-attachments/assets/b5a1dc68-7fa6-48ac-ade5-7a1c0ca4dbe0" />
 
-This was my first attempt at designing, but I restarted after realizing that solving the feature vertically was unnecessary. 
+This was my first attempt at designing, but I restarted after realizing that I had swapped the features and was solving feature 1 as feature 2.
 
 <img width="263" height="315" alt="image" src="https://github.com/user-attachments/assets/10231f64-9420-4398-9f42-88f58aa2a959" />
 
 To start solving, I first drew my free-body diagram and labeled my forces. We are given that M = PL, so with that I can label my moment and know that P goes at the very end of the feature because M = PL; we use the same length of distance that I chose earlier. I then solved my static equations and got M=15000N*mm. Then I solved for maximum strength using the bending equation. I calculated that the height needs to be at least 12.22mm. Lastly, I calculated for maximum deflection using the given equation and found the height needs to be a minimum of 19.98mm. Since the deflection value is larger, that's the height I will go with. To make it easier, I will be rounding up to 20.0mm to be safer and make modeling and designing easier.
+
+Feature 2
+<img width="302" height="326" alt="image" src="https://github.com/user-attachments/assets/f9d73e66-b549-47fb-8a35-22b41f58444d" />
+
+Feature 2 was much easier to solve for since we didn't have to worry about the force, and I already figured out the equations to use, so I carried them over. I started by drawing my free-body diagram and solving for M, which is the same as Feature 1. I then solved for max strength and max deflection, and the strength was the same as feature one because I used the same length. The deflection, however, was different, and I calculated it to be 17.22mm. I'm going to round that to 18mm to make it even and easier to model. 
+
+## Isometric View
+
+## CAD Model
+<img width="476" height="414" alt="image" src="https://github.com/user-attachments/assets/cd42e306-5652-4c34-9109-1d7850ef689b" />
+
+<img width="200" height="262" alt="image" src="https://github.com/user-attachments/assets/05ada8c2-80fe-421c-a298-9e43d4c9f7fc" />
+
+<img width="257" height="235" alt="image" src="https://github.com/user-attachments/assets/1a621c86-c103-4d52-acac-99291c28369e" />
+
+To start, I went in and changed the units to mm and then started a sketch on the top plan and drew a simple rectangle. I then extruded that rectangle by the thickness of feature one I solved for earlier, of 20mm.
 ## Decide
 
 
