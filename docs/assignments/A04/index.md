@@ -8,6 +8,7 @@ The task we were given is to design a motor mount for a (Brushed 24V DC Gear Mot
 <img width="365" height="339" alt="image" src="https://github.com/user-attachments/assets/60de88a3-fff4-4b05-9c55-f2e2b9873d3b" />
 <img width="215" height="141" alt="image" src="https://github.com/user-attachments/assets/8c9221f2-15f2-4881-bd81-9c39bc2f91e6" />
 Image of motor and physical dimensions
+
 ### Criteria
 -Can use PETG, PLA, or ABS
 
