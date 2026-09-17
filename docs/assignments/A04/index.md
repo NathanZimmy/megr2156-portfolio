@@ -84,6 +84,16 @@ Next, I added feature two by starting a sketch on the top of the previous extrud
 <img width="296" height="301" alt="image" src="https://github.com/user-attachments/assets/239f562b-c329-42f8-9e8e-07582ed052fe" />
 
 Now I had to add the bolt holes and space for the motor to fit. I went based on the appendix image given for the measurements and depths to make the cuts. First, I started a sketch on feature 1 and made two center lines that intersected so I knew where the center of the shape is. Next, I drew a circle on the center intersection point with a diameter of 18mm. I then extrude cut that circle with a depth of 2mm
+
+<img width="350" height="271" alt="image" src="https://github.com/user-attachments/assets/a64660d6-76a7-4f65-a0af-34d82f86b082" />
+
+<img width="404" height="329" alt="image" src="https://github.com/user-attachments/assets/67413b85-dbcd-4c01-a9db-468960e0ff6f" />
+
+<img width="798" height="361" alt="image" src="https://github.com/user-attachments/assets/87986309-64a1-4a95-9930-6c2cb82278aa" />
+
+
+
+Next, I added the center hole where the D-cut part of the shaft will go. I did this by doing another extrude cut in the center of the previous hole and selecting to through all. I also added the tolerance of -.03mm. Lastly I created the bolt holes. There are four of these of equal distance from each other about a diameter of 22mm so, I created on hole then patterened the other three off that one. I made an extrude cut and sketched a circle of 3.40mm and set it to a distance of 11mm from the center of the shaft hole. 
 ## Decide
 
 
