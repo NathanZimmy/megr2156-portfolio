@@ -66,6 +66,8 @@ Feature 2 was much easier to solve for since we didn't have to worry about the f
 
 ## Isometric View
 
+<img width="401" height="331" alt="image" src="https://github.com/user-attachments/assets/546a7af7-3039-487d-95eb-dfe81163aaf1" />
+
 ## CAD Model Parametric
 <img width="476" height="414" alt="image" src="https://github.com/user-attachments/assets/cd42e306-5652-4c34-9109-1d7850ef689b" />
 
