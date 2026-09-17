@@ -66,7 +66,7 @@ Feature 2 was much easier to solve for since we didn't have to worry about the f
 
 ## Isometric View
 
-## CAD Model
+## CAD Model Parametric
 <img width="476" height="414" alt="image" src="https://github.com/user-attachments/assets/cd42e306-5652-4c34-9109-1d7850ef689b" />
 
 <img width="200" height="262" alt="image" src="https://github.com/user-attachments/assets/05ada8c2-80fe-421c-a298-9e43d4c9f7fc" />
@@ -93,7 +93,15 @@ Now I had to add the bolt holes and space for the motor to fit. I went based on 
 
 
 
-Next, I added the center hole where the D-cut part of the shaft will go. I did this by doing another extrude cut in the center of the previous hole and selecting to through all. I also added the tolerance of -.03mm. Lastly I created the bolt holes. There are four of these of equal distance from each other about a diameter of 22mm so, I created on hole then patterened the other three off that one. I made an extrude cut and sketched a circle of 3.40mm and set it to a distance of 11mm from the center of the shaft hole. 
+Next, I added the center hole where the D-cut part of the shaft will go. I did this by doing another extrude cut in the center of the previous hole and selecting to through all. I also added the tolerance of -.03mm. Lastly, I created the bolt holes. There are four of these at equal distances from each other, with a diameter of 22 mm, so I created one hole, then patterned the other three off that one. I made an extrude cut and sketched a circle of 3.40mm and set it to a distance of 11mm from the center of the shaft hole. To make the other three, I selected Circular Pattern and set the instances to four at a 360° angle and used and clicked the center shaft hole to be my axis of rotation. 
+
+<img width="260" height="317" alt="image" src="https://github.com/user-attachments/assets/c116edc8-0f84-4c5d-90b5-dcf072c35a89" />
+
+This is the final model of my motor mount.
+### CAD Files
+
+[Lecture A4.zip](https://github.com/user-attachments/files/32332752/Lecture.A4.zip)
+
 ## Decide
 
 
