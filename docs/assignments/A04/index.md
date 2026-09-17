@@ -102,8 +102,10 @@ This is the final model of my motor mount.
 
 [Lecture A4.zip](https://github.com/user-attachments/files/32332752/Lecture.A4.zip)
 
-## Decide
+## Lessons learned
+One big take away I got from this assignment was that what it's like to design with a purpose from scratch to solve a problem. We are given a motor and need to make a bracket that will hold or mount this motor to something. Ive seen motor mounts before and know what they are and it looks so simple at fire. But I never realized how much goes into designing something from scratch with no measurements or given requirements. When you look at simple objects such as a motor mount you don't think much of it but there really is so much more to creating something with a purpose starting from just an idea. I also learned about cantilever beams and what they are. I was introduced to this term during this project and leaned that a cantilever beam is just a beam that is fixed at one (rigid) end and free to move or bend at the other. 
 
+In total this assignment took me 7 hours to complete.
 
 ## Sources
 https://www.matweb.com/search/DataSheet.aspx?MatGUID=ab96a4c0655c4018a8785ac4031b9278&ckck=1
