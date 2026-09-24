@@ -37,6 +37,8 @@ For this assignment, we were given three materials to choose from. Aluminum 6061
 
 ## Feature A
 
+<img width="254" height="317" alt="image" src="https://github.com/user-attachments/assets/49c2b6b6-ea6b-4b1b-80c9-b3351e7e08bd" />
+
 <img width="482" height="389" alt="image" src="https://github.com/user-attachments/assets/78aa630f-f56a-49f5-8ccc-58b4d1512968" />
 
 For feature A, I assumed a length of 1.5in and that F=600lbf. I used these to then calculate my Z and r values using the equations given in Appendix A. 
@@ -48,6 +50,9 @@ To solve for the radius required by stress, I used the equation given to us in A
 We were given a max deflection to be .005in. So when solving for stiffness, I had to take this into account and compare my values. When I solved for stiffness, I found that my calculated deflection was going to be .0119in and this is greater than the max deflection, so that means that the radius I found previously due to stress would not work. I then had to solve for radius due to deflection, and I got that the minimum required radius is .380in. This shows that stiffness dictates what size the radius needs to be on this design. 
 
 ## feature B
+
+<img width="251" height="329" alt="image" src="https://github.com/user-attachments/assets/7bfeaca8-7be8-4cb9-8fe8-b7445139e15e" />
+
 For feature B, I assumed a length of 1in and a width of .5in.
 
 <ins>stress</ins>
