@@ -3,7 +3,7 @@
 ## Objective
 The purpose of this assignment is to design a component by analyzing the normal stress, bending stress, and stiffness equations using strength of materials to determine dimensions. The component we are designing is a simple bracket referencing the design given below. 
 
-###Objectives listed on the assignment
+### Objectives listed on the assignment
 
 Conduct stress analysis to determine appropriate dimensions for structural features.
 
@@ -25,6 +25,13 @@ Reflect on and document key engineering lessons learned throughout the process.
 
 ### Criteria
 
+The bracket’s dimensions are designed with different fit classes. Each dimension of the T beam is part of the fit:
+
+“a” intention for use where accuracy is not essential
+“b” is about the closest fits that can be expected to run freely
+“c” is where accurate location and minimum play is desired
+
+Design using a safety factor of 4 and applied load in between 500 lbf < F < 800 lbf. Choose one of three metals, aluminum 6061 T6, Steel (ASTM A36), or Titanium (Ti-6Al-V4). Furthermore, state assumptions and approximations about the design in order to use fundamental strength of materials analysis. For example, use the proper stress analysis and deflection analysis where appropriate. Assume no failure due to direct shear stress. 
 ## Analyze
 
 
