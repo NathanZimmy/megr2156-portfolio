@@ -32,11 +32,32 @@ The bracket’s dimensions are designed with different fit classes. Each dimensi
 “c” is where accurate location and minimum play is desired
 
 Design using a safety factor of 4 and applied load in between 500 lbf < F < 800 lbf. Choose one of three metals, aluminum 6061 T6, Steel (ASTM A36), or Titanium (Ti-6Al-V4). Furthermore, state assumptions and approximations about the design in order to use fundamental strength of materials analysis. For example, use the proper stress analysis and deflection analysis where appropriate. Assume no failure due to direct shear stress. 
-## Analyze
+## Material choice
+For this assignment, we were given three materials to choose from. Aluminum 6061 T6, Steel (ASTM A36), or Titanium (Ti-6Al-V4). I chose to go with Titanium (Ti-6Al-V4). Titanium (Ti-6Al-V4) has a yield strength of 1100 MPa (160,000 psi), a modulus of elasticity of 114 GPa (16,500 ksi), and a shear strength of 760 MPa (110,000 psi).
 
+## Feature A
 
+<img width="482" height="389" alt="image" src="https://github.com/user-attachments/assets/78aa630f-f56a-49f5-8ccc-58b4d1512968" />
+
+For feature A, I assumed a length of 1.5in and that F=600lbf. I used these to then calculate my Z and r values using the equations given in Appendix A. 
+
+<ins>stress</ins>
+To solve for the radius required by stress, I used the equation given to us in Appendix A. I first had to solve for Z and then plug in my values to get r=.306in. To find the stress, I used the stress equation given Wl/2Z, which came out to be 40000psi. I checked to make sure this was okay by finding my stress allowable and found that they were the same value. 
+
+<ins>Stiffness</ins>
+We were given a max deflection to be .005in. So when solving for stiffness, I had to take this into account and compare my values. When I solved for stiffness, I found that my calculated deflection was going to be .0119in and this is greater than the max deflection, so that means that the radius I found previously due to stress would not work. I then had to solve for radius due to deflection, and I got that the minimum required radius is .380in. This shows that stiffness dictates what size the radius needs to be on this design. 
+
+## feature B
+For feature B, I assumed a length of 1in and a width of .5in.
+
+<ins>stress</ins>
+To find the base required by stress, I used the quation stress=P/A. A = bw, so I can solve for b by rearranging the equation and plugging in my values. I calculated b to be .060in.
+
+<ins>stress</ins>
+To solve for stiffness, I used the equation stiffness=PL/EA and used that A=bw. Doing the same system as before, I solved b to equal .0291in. This means that stress will govern the dimension since it is the larger value.
 ## Decide
 
 
-## Communicate
+## Sources
+https://www.aerospacemetals.com/wp-content/uploads/2023/07/Titanium-Ti-6Al-4V-Grade-5-STA-Data-Sheet.pdf
 
