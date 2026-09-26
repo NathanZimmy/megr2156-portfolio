@@ -63,6 +63,7 @@ To solve for stiffness, I used the equation stiffness=PL/EA and used that A=bw. 
 
 ## Feature C
 
+<img width="233" height="215" alt="image" src="https://github.com/user-attachments/assets/47290099-2a83-4ec6-a3e8-7c923a2f1749" />
 
 <ins>stress</ins>
 For feature C we were instructed to act as if it was a simple supported beam with a concentrated load at the center. SO to find the height due to stress I first had to find what my support values were using statics. Since there are only forces in the y which is the force from B then RA and RB are going to be the same value at 1/2 P. Nex I used the equation stress=MC/I and plugged my values in. I had to find the Mmax as well since that was the first variable needed and then I plugged I and C in since but didn't solve them yet because they both contain h. After rearranging my variables and plugging in my values I found the minimum height due to stress to equal .367in.
@@ -72,6 +73,8 @@ To find the height due to stiffness I used the equation δ=PL^3/48EI. We know I=
 
 ## Feature D
 
+<img width="255" height="338" alt="image" src="https://github.com/user-attachments/assets/9228067b-04c3-4c17-bcbe-e427864d161c" />
+
 ​<ins>stress</ins>
 Feature D was very simple as it was just on of the force acting on feature C previously. So our P=600 (half of PC) and i used the stress equation to find the minimum base thickness due to stress is .0300in. 
 
@@ -80,7 +83,14 @@ for the minimum base due to stiffness I used the basic deflection equation and p
 
 ## Feature E
 
+<img width="250" height="224" alt="image" src="https://github.com/user-attachments/assets/c45db3c5-795c-4273-bbde-1529f10db7eb" />
+
 <ins>stress</ins>
+Feature E is a simple cantilever beam with a force acting on the end of it. I used the same methods as Feature C except this is one load at the free end instead of two support forces with a center load. I solved for the minimum thickness due to stress by using the equation stress= Mc/I and plugging I in and solving for b. The minimum required thickness due to stress is .300in. 
+
+<ins>stiffness</ins>
+For stiffness I used the equation for deflection of a cantilever beam with a load at the end and solved for b after plugging in I. I found the minimum required thickness due to stiffness is .194in. This is smaller than the stress value mean stress controls the thickness. 
+
 ## Sources
 https://www.aerospacemetals.com/wp-content/uploads/2023/07/Titanium-Ti-6Al-4V-Grade-5-STA-Data-Sheet.pdf
 
