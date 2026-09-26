@@ -91,6 +91,20 @@ Feature E is a simple cantilever beam with a force acting on the end of it. I us
 <ins>stiffness</ins>
 For stiffness I used the equation for deflection of a cantilever beam with a load at the end and solved for b after plugging in I. I found the minimum required thickness due to stiffness is .194in. This is smaller than the stress value mean stress controls the thickness. 
 
+
+## Reflection
+<ins>Governing failure mode:</ins> For at least one feature, state whether stress or stiffness governed the final dimension, and by how much (e.g., "stress required 0.25", stiffness required 0.31"). If they were close, say so — a near-tie is itself a lesson.
+
+For Feature A I calculated the require radius due to stress to be .306in and for stiffness to be .380in. This is the only feature that stiffness controlled the dimensions and it's by a very close margin of .074in. 
+
+<ins>Error propagation:<ins> Identify one instance where a value from an earlier feature carried into a later one. Did an early error (or a late catch) change a downstream result? If nothing propagated incorrectly, state what check caught it before it could.
+
+Multiple values carried over from one feature to the other. The most obvious value was the force due to the strap which I chose to be 600lbf. this force was carried into each part of the bracket. A calculated value that carried over was the Force from B on C. C had two support values that were each half of the force from B and the center load on C was the force from b. Nothing was calculated incorrectly from feature to feature and this is because I made sure to check how the force affected each feature and draw my diagrams correctly. 
+
+<ins>Assumption sensitivity:<ins> Name one assumption you made (material choice, shear negligibility, load distribution, etc.) and describe what would change in your final dimensions if that assumption were wrong or different.
+
+One important assumption I was the selected feature lengths, since several dimensions for the features were not provided. For example, Feature A was assumed to have a length of 1.5in. If Feature A were longer, both bending stress and deflection would increase, which would require a larger radius. The stiffness calculation is especially sensitive to length because deflection depends on L^3. Therefore, changing the assumed geometry could noticeably change the final dimensions.
+
 ## Sources
 https://www.aerospacemetals.com/wp-content/uploads/2023/07/Titanium-Ti-6Al-4V-Grade-5-STA-Data-Sheet.pdf
 
