@@ -103,8 +103,7 @@ Multiple values carried over from one feature to the other. The most obvious val
 
 <ins>Assumption sensitivity:<ins> Name one assumption you made (material choice, shear negligibility, load distribution, etc.) and describe what would change in your final dimensions if that assumption were wrong or different.
 
-One important assumption I was the selected feature lengths, since several dimensions for the features were not provided. For example, Feature A was assumed to have a length of 1.5in. If Feature A were longer, both bending stress and deflection would increase, which would require a larger radius. The stiffness calculation is especially sensitive to length because deflection depends on L^3. Therefore, changing the assumed geometry could noticeably change the final dimensions.
-
+One important assumption I was the selected feature lengths, since several dimensions for the features were not provided. For example, Feature A was assumed to have a length of 1.5in. If Feature A were longer, both bending stress and deflection would increase, which would require a larger radius. 
 ## Sources
 https://www.aerospacemetals.com/wp-content/uploads/2023/07/Titanium-Ti-6Al-4V-Grade-5-STA-Data-Sheet.pdf
 
