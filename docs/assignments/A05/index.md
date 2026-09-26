@@ -58,11 +58,29 @@ For feature B, I assumed a length of 1in and a width of .5in.
 <ins>stress</ins>
 To find the base required by stress, I used the quation stress=P/A. A = bw, so I can solve for b by rearranging the equation and plugging in my values. I calculated b to be .060in.
 
-<ins>stress</ins>
+<ins>stiffness</ins>
 To solve for stiffness, I used the equation stiffness=PL/EA and used that A=bw. Doing the same system as before, I solved b to equal .0291in. This means that stress will govern the dimension since it is the larger value.
-## Decide
+
+## Feature C
 
 
+<ins>stress</ins>
+For feature C we were instructed to act as if it was a simple supported beam with a concentrated load at the center. SO to find the height due to stress I first had to find what my support values were using statics. Since there are only forces in the y which is the force from B then RA and RB are going to be the same value at 1/2 P. Nex I used the equation stress=MC/I and plugged my values in. I had to find the Mmax as well since that was the first variable needed and then I plugged I and C in since but didn't solve them yet because they both contain h. After rearranging my variables and plugging in my values I found the minimum height due to stress to equal .367in.
+
+<ins>stiffness</ins>
+To find the height due to stiffness I used the equation δ=PL^3/48EI. We know I=wh^3/12 so I plugged that in and solved for h. I found that the minimum height due to stiffness is .291in. This value is smaller than the minimum height due to stress so stress will govern the heigh of feature C.
+
+## Feature D
+
+​<ins>stress</ins>
+Feature D was very simple as it was just on of the force acting on feature C previously. So our P=600 (half of PC) and i used the stress equation to find the minimum base thickness due to stress is .0300in. 
+
+<ins>stiffness</ins>
+for the minimum base due to stiffness I used the basic deflection equation and plugged in that area is L*b. After solving for b i found the minimum required base thickness due to stiffness is .00727in. This is much smaller than stress showing that stress controls the value. 
+
+## Feature E
+
+<ins>stress</ins>
 ## Sources
 https://www.aerospacemetals.com/wp-content/uploads/2023/07/Titanium-Ti-6Al-4V-Grade-5-STA-Data-Sheet.pdf
 
