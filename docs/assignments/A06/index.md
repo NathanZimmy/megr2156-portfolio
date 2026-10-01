@@ -21,9 +21,20 @@ Next, I did an extrude cut to make space for the cable. I set the cut to through
 
 <img width="704" height="260" alt="image" src="https://github.com/user-attachments/assets/3caee0c1-7551-4ec4-9117-dfe9f58a4124" />
 
-Next, I added in feature B. I started by making another sketch on the top plane so it would be in line with the top piece of the bracket. I then made a rectangle and set the width of it to the same value as the diameter of feature A, equaling .760in. I made it 1in long, which was a value we chose when solving. Lastly, I created an arch on the bottom line of feature B so I could cut out a shape where feature A. I set the radius of that arch equal to the radius of feature A at .380in. Lastly, I extruded that to the thickness I solved for of .060in
+Next, I added feature B. I started by making another sketch on the top plane so it would be in line with the top piece of the bracket. I then made a rectangle and set the width of it to the same value as the diameter of feature A, equaling .760in. I made it 1in long, which was a value we chose when solving. Lastly, I created an arch on the bottom line of feature B so I could cut out a shape where feature A is. I set the radius of that arch equal to the radius of feature A at .380in. Lastly, I extruded that to the thickness I solved for of .060in
 
 
+<img width="384" height="224" alt="image" src="https://github.com/user-attachments/assets/17ab2627-4173-45a5-bffa-193ecd96f90e" />
+
+
+<img width="777" height="358" alt="image" src="https://github.com/user-attachments/assets/e27c9fe2-837c-45d1-91f4-5fc496ce196a" />
+
+The last feature I need to model is feature A. So I started another sketch on the top plane so it would be in line with the rest. I drew a circle from the center of where feature B ended and made it all the way to the edge of feature B. This is because feature B is already set to the same radius dimension as A. I still went and dimensioned it to make sure it was correct, and it was. I extruded this to the same thickness as the top bracket. 
+
+<img width="306" height="295" alt="image" src="https://github.com/user-attachments/assets/7a83fc54-a88a-4564-b291-7cbd4ff0a20e" />
+
+ Final model 
+ 
 ## Engineering drawings
 
 
