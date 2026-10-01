@@ -45,12 +45,14 @@ The last feature I need to model is feature A. So I started another sketch on th
 
 <img width="329" height="253" alt="image" src="https://github.com/user-attachments/assets/17c4ef88-1c23-4e3b-ae14-4d0bbe82a149" />
 
-For the engineering drawings, I used the basic template A for ANSI. 
-
+For the engineering drawings, I used the basic template A for ANSI. SolidWorks makes it very easy to set up engineering drawings as all I had to do when I opened this file into a drawing was select which view I wanted to see and place it onto the sheet. I made a tolerance on the radius of Feature A of +.02 and -.00 because this dimensions stress and stiffness value are very close with stiffness controlling. If it is any smaller than the dimension I have it set to then the bracket could fail but a little larger and the feature will still work. 
 
 
 
 ## Lessons Learned
+
+
+This project took me about 3 hours to complete.
 
 ## CAD FILES
 
