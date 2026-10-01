@@ -50,6 +50,8 @@ For the engineering drawings, I used the basic template A for ANSI. SolidWorks m
 
 
 ## Lessons Learned
+One major lesson I learned was the importance of tolerances and how they can lead to a part failing after machining. Since the values are calculated for the minimum required dimensions for stress and stiffness, if you make them smaller than those minimums then the design will fail. Another lesson I learned is how to use engineering drawings in SolidWorks. I previously knew how to do a drawing in CREO but I haven't done one in SolidWorks yet so this was a very good functional skill to learn how to do and be able to use in the future. 
+
 
 
 This project took me about 3 hours to complete.
