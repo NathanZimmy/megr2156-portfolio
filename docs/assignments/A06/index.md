@@ -13,7 +13,17 @@ To start with the bracket model, I set the base length to the length of C I chos
 
 <img width="785" height="364" alt="image" src="https://github.com/user-attachments/assets/5fe1e8e1-64d4-4f19-8c80-97cb21e0addb" />
 
-Next, I did an extrude cut to make the space for the cable. I set the cut to through all.
+Next, I did an extrude cut to make space for the cable. I set the cut to through all.
+
+
+<img width="242" height="292" alt="image" src="https://github.com/user-attachments/assets/eee46abb-2d0c-4ea6-9c2b-66e9ed219ea3" />
+
+
+<img width="704" height="260" alt="image" src="https://github.com/user-attachments/assets/3caee0c1-7551-4ec4-9117-dfe9f58a4124" />
+
+Next, I added in feature B. I started by making another sketch on the top plane so it would be in line with the top piece of the bracket. I then made a rectangle and set the width of it to the same value as the diameter of feature A, equaling .760in. I made it 1in long, which was a value we chose when solving. Lastly, I created an arch on the bottom line of feature B so I could cut out a shape where feature A. I set the radius of that arch equal to the radius of feature A at .380in. Lastly, I extruded that to the thickness I solved for of .060in
+
+
 ## Engineering drawings
 
 
