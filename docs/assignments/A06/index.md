@@ -1,4 +1,3 @@
-[Lecture A6 bracket model.zip](https://github.com/user-attachments/files/32884103/Lecture.A6.bracket.model.zip)
 # A6 – [Bracket Drawings]
 
 ## Objective
@@ -45,12 +44,12 @@ The last feature I need to model is feature A. So I started another sketch on th
 
 <img width="329" height="253" alt="image" src="https://github.com/user-attachments/assets/17c4ef88-1c23-4e3b-ae14-4d0bbe82a149" />
 
-For the engineering drawings, I used the basic template A for ANSI. SolidWorks makes it very easy to set up engineering drawings as all I had to do when I opened this file into a drawing was select which view I wanted to see and place it onto the sheet. I made a tolerance on the radius of Feature A of +.02 and -.00 because this dimensions stress and stiffness value are very close with stiffness controlling. If it is any smaller than the dimension I have it set to then the bracket could fail but a little larger and the feature will still work. 
+For the engineering drawings, I used the basic template A for ANSI. SolidWorks makes it very easy to set up engineering drawings, as all I had to do when I opened this file into a drawing was select which view I wanted to see and place it onto the sheet. I made a tolerance on the radius of Feature A of +.02 and -.00 because this dimension's stress and stiffness values are very close, with stiffness controlling. If it is any smaller than the dimension I have it set to, then the bracket could fail, but if it is any little larger, the feature will still work. 
 
 
 
 ## Lessons Learned
-One major lesson I learned was the importance of tolerances and how they can lead to a part failing after machining. Since the values are calculated for the minimum required dimensions for stress and stiffness, if you make them smaller than those minimums then the design will fail. Another lesson I learned is how to use engineering drawings in SolidWorks. I previously knew how to do a drawing in CREO but I haven't done one in SolidWorks yet so this was a very good functional skill to learn how to do and be able to use in the future. 
+One major lesson I learned was the importance of tolerances and how they can lead to a part failing after machining. Since the values are calculated for the minimum required dimensions for stress and stiffness, if you make them smaller than those minimums, then the design will fail. Another lesson I learned is how to use engineering drawings in SolidWorks. I previously knew how to do a drawing in CREO, but I haven't done one in SolidWorks yet, so this was a very good functional skill to learn how to do and be able to use in the future. 
 
 
 
