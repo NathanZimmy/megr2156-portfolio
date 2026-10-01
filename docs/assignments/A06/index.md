@@ -33,10 +33,22 @@ The last feature I need to model is feature A. So I started another sketch on th
 
 <img width="306" height="295" alt="image" src="https://github.com/user-attachments/assets/7a83fc54-a88a-4564-b291-7cbd4ff0a20e" />
 
+
+<img width="395" height="312" alt="image" src="https://github.com/user-attachments/assets/7f8952cb-2ef5-449e-afe8-c007d58db62e" />
+
  Final model 
  
 ## Engineering drawings
 
+<img width="377" height="249" alt="image" src="https://github.com/user-attachments/assets/238c8500-176b-47cf-bd64-932da011629a" />
+
+<img width="329" height="253" alt="image" src="https://github.com/user-attachments/assets/17c4ef88-1c23-4e3b-ae14-4d0bbe82a149" />
+
+For the engineering drawings, I used the basic template A for ANSI. 
+
+
+
 
 ## Lessons Learned
 
+## CAD FILES
