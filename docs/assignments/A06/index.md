@@ -1,3 +1,4 @@
+[Lecture A6 bracket model.zip](https://github.com/user-attachments/files/32884103/Lecture.A6.bracket.model.zip)
 # A6 – [Bracket Drawings]
 
 ## Objective
@@ -52,3 +53,6 @@ For the engineering drawings, I used the basic template A for ANSI.
 ## Lessons Learned
 
 ## CAD FILES
+
+[Lecture A6 bracket model.zip](https://github.com/user-attachments/files/32884107/Lecture.A6.bracket.model.zip)
+
