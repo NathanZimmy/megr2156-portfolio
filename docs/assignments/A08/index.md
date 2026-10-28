@@ -8,13 +8,13 @@ For this assignment, we are to design and parametrically model parts for a gearb
 
 - Analyze and size input and output shafts for strength.
 
--Design journal bearings to support shafts.
+- Design journal bearings to support shafts.
 
--Create a gearbox housing with proper clearance and fastening.
+- Create a gearbox housing with proper clearance and fastening.
 
--Use parametric CAD modeling to generate a final design.
+- Use parametric CAD modeling to generate a final design.
 
--Document calculations, sketches, and lessons learned.
+- Document calculations, sketches, and lessons learned.
 
 ## Analyze
 
