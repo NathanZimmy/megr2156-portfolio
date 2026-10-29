@@ -68,3 +68,11 @@ After creating my first mesh, I hit run to test the first study. However, I had 
 Here are my first three simulation results; above, you can see the Von Mises (stress), displacement, and strain. I first noticed, after getting the error code before, the displacement values. Currently, it is showing that my bracket's max displacement is 1.244x10^5mm or 124.4m which is about 400ft. This is completely unrealistic and shows there is something wrong with the simulation or my model itself. So after doing some looking and showing AI my results of what went wrong, I found that my material had not saved. I also found that when creating my materials, I input the wrong values and made them 1000 times smaller by putting a decimal instead of a comma, so I fixed that as well. 
 
 So after making sure my material was selected this time and double-checking that my model was all one solid body I ran the simulation again. 
+
+<img width="951" height="378" alt="image" src="https://github.com/user-attachments/assets/a073ec62-3aba-49e4-b9d3-3fa1df0dff23" />
+
+<img width="928" height="391" alt="image" src="https://github.com/user-attachments/assets/2e87920c-5d2b-48f9-bf4b-7c21cb3dd20c" />
+
+<img width="908" height="371" alt="image" src="https://github.com/user-attachments/assets/64c3815f-3eab-42b9-bc15-04fbfe0bd643" />
+
+After running the simulations again, my stress and displacement values were still way over the maximum allowed values. 
