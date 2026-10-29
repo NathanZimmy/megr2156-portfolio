@@ -55,4 +55,14 @@ Using the strength values found in the book, I calculated the safety factors of 
 Using the equations given in class, I found that both the input power and output power are within the acceptable range, and both shaft diameters are of sufficient size. 
 
 ## Journal Bearings
+### Free Body Diagram
+
+### Calculations
+
+## McMaster Carr Parts
+### Gearbox
+<img width="522" height="186" alt="image" src="https://github.com/user-attachments/assets/fb6e680b-2068-4ac5-a147-0aa943678f4b" />
+
+### Shaft
+<img width="489" height="72" alt="image" src="https://github.com/user-attachments/assets/d8f2523e-e82b-4ea9-8184-40daf042bcb9" />
 
