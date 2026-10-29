@@ -59,11 +59,17 @@ Using the equations given in class, I found that both the input power and output
 
 <img width="493" height="275" alt="image" src="https://github.com/user-attachments/assets/c2bd9b98-8f57-4287-a36d-94818f0ebe2e" />
 
+<img width="125" height="136" alt="image" src="https://github.com/user-attachments/assets/29582fce-561d-4923-9896-5739199fd357" />
+
 ### Calculations
 
 <img width="4284" height="5712" alt="IMG_1907" src="https://github.com/user-attachments/assets/9b9022c7-3e49-48ce-9dba-2f017340cb6c" />
 
 <img width="4284" height="5712" alt="IMG_1908" src="https://github.com/user-attachments/assets/6f9d154a-a967-40a3-956d-25ebc62c596f" />
+
+### Bearing Thickness
+
+<img width="242" height="122" alt="image" src="https://github.com/user-attachments/assets/1247a1b1-3527-473a-b1f0-f883b29c58ab" />
 
 ## McMaster Carr Parts
 
