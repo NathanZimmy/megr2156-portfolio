@@ -32,8 +32,21 @@ Before running FEA or changing the design at all, here is the bracket I designed
 
 I also had to create and apply my chosen material. I chose to use Titanium Ti-6Al-4V. After applying the correct values for this material, I applied it to my bracket. 
 
-## Decide
+## Design 1
 
+### Fixtures and Forces
+Before running the first study, I had to add fixtures to show where the bracket is undergoing force and being supported. This is so the study knows exactly what is happening to the design and where the stress concentrations are due to the forces acting upon it. 
 
-## Communicate
+<img width="442" height="278" alt="image" src="https://github.com/user-attachments/assets/86be065a-3af4-4637-b199-1ce260b01dd7" />
 
+For the first fixture, I added a fixed geometry on the underside of feature E. This is to simulate something sliding into the bracket.
+
+<img width="671" height="364" alt="image" src="https://github.com/user-attachments/assets/aed02de4-9259-485a-a718-f5e8fa684d9f" />
+
+Next, I added a distributed force on Feature A, the cylinder. I chose the force to be equal to 600 lbf, and W = 2F, so the force will be 1200lbf. I selected the cylinder to be the shape the force is acting on, then one of the vertical corner edges for the direction it would be acting in. However, it kept going upwards, so I had to select it to reverse direction. Lastly, I changed it to English(IPS) units and set it to 1200lbf.
+
+### Mesh 1
+
+<img width="755" height="372" alt="image" src="https://github.com/user-attachments/assets/91518f96-44cd-427d-a4fc-c8fe992f1b1f" />
+
+I added my first mesh and left all the settings completely as they were automatically. This was to see what would happen and where my design currently sits. 
