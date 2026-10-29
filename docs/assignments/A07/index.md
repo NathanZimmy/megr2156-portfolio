@@ -3,7 +3,7 @@
 ## Objective
 In this assignment, I am going to take the bracket design from my previous assignment and use SolidWorks FEA (finite element analysis) on the design to improve and optimize it. Here is the objective list from the assignment. 
 
-Your task is simply to create a high-stiffness, high-strength, and lightweight component. Use Finite Element Analysis to drive your decision-making process throughout your design. Each step of the analysis and before you make geometric changes, make sure the component’s results (stress/displacement/Safety Factor) converge on a 7% difference. Achieve this by modifying the number of elements. If after three attempts to converge use the stiffness and stress from the finer mesh size use the finest mesh size and proceed through the process.
+Your task is simply to create a high-stiffness, high-strength, and lightweight component. Use Finite Element Analysis to drive your decision-making process throughout your design. At each step of the analysis and before you make geometric changes, make sure the component’s results (stress/displacement/Safety Factor) converge to within a 7% difference. Achieve this by modifying the number of elements. If after three attempts to converge use the stiffness and stress from the finer mesh size use the finest mesh size and proceed through the process.
 
 - Use Finite Element Analysis (FEA) to improve the bracket design from previous assignments.
 
@@ -49,4 +49,16 @@ Next, I added a distributed force on Feature A, the cylinder. I chose the force 
 
 <img width="755" height="372" alt="image" src="https://github.com/user-attachments/assets/91518f96-44cd-427d-a4fc-c8fe992f1b1f" />
 
-I added my first mesh and left all the settings completely as they were automatically. This was to see what would happen and where my design currently sits. 
+I added my first mesh and left all the settings completely as they were automatically set. This was to see what would happen and where my design currently sits. 
+
+<img width="312" height="148" alt="image" src="https://github.com/user-attachments/assets/1036c76f-45b0-4d03-9e0a-c3df4c5a42ec" />
+
+After creating my first mesh, I hit run to test the first study. However, I had this pop-up and had no idea what it meant or what to do, so I screenshot it and asked AI. AI told me that I didn't do anything inherently wrong, but that my design may be going through a very large displacement, with my force being 1200lbf. It notified me that I should hit no so I can analyze my initial geometry because hitting yes will automatically cause changes. 
+
+### First simulation
+
+<img width="568" height="355" alt="image" src="https://github.com/user-attachments/assets/d105dcbf-4094-4c76-ae54-2355f29a3562" />
+
+<img width="501" height="344" alt="image" src="https://github.com/user-attachments/assets/d0c47629-7808-474e-9c22-2e0a66ce1fed" />
+
+<img width="494" height="325" alt="image" src="https://github.com/user-attachments/assets/b943f40c-fa8a-4d35-9253-c17b465425ae" />
