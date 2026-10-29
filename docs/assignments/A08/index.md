@@ -57,12 +57,21 @@ Using the equations given in class, I found that both the input power and output
 ## Journal Bearings
 ### Free Body Diagram
 
+<img width="493" height="275" alt="image" src="https://github.com/user-attachments/assets/c2bd9b98-8f57-4287-a36d-94818f0ebe2e" />
+
 ### Calculations
 
+<img width="4284" height="5712" alt="IMG_1907" src="https://github.com/user-attachments/assets/9b9022c7-3e49-48ce-9dba-2f017340cb6c" />
+
+<img width="4284" height="5712" alt="IMG_1908" src="https://github.com/user-attachments/assets/6f9d154a-a967-40a3-956d-25ebc62c596f" />
+
 ## McMaster Carr Parts
+
 ### Gearbox
+
 <img width="522" height="186" alt="image" src="https://github.com/user-attachments/assets/fb6e680b-2068-4ac5-a147-0aa943678f4b" />
 
 ### Shaft
+
 <img width="489" height="72" alt="image" src="https://github.com/user-attachments/assets/d8f2523e-e82b-4ea9-8184-40daf042bcb9" />
 
