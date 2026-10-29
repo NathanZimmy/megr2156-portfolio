@@ -22,8 +22,15 @@ Your task is simply to create a high-stiffness, high-strength, and lightweight c
 - Reflect on key engineering lessons learned and time spent.
 
 
-## Analyze
+## Initial Design
 
+<img width="296" height="326" alt="image" src="https://github.com/user-attachments/assets/a6b5b0cb-8020-4678-bf43-6fd6a8ec38a7" />
+
+Before running FEA or changing the design at all, here is the bracket I designed in the last assignment. 
+
+<img width="596" height="446" alt="image" src="https://github.com/user-attachments/assets/f58a78b8-941f-475e-96d9-68a96fbb0d83" />
+
+I also had to create and apply my chosen material. I chose to use Titanium Ti-6Al-4V. After applying the correct values for this material, I applied it to my bracket. 
 
 ## Decide
 
