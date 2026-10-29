@@ -62,3 +62,9 @@ After creating my first mesh, I hit run to test the first study. However, I had 
 <img width="501" height="344" alt="image" src="https://github.com/user-attachments/assets/d0c47629-7808-474e-9c22-2e0a66ce1fed" />
 
 <img width="494" height="325" alt="image" src="https://github.com/user-attachments/assets/b943f40c-fa8a-4d35-9253-c17b465425ae" />
+
+<img width="783" height="473" alt="image" src="https://github.com/user-attachments/assets/2a6c1a9e-6de0-41e8-8e2a-192be24e6bfa" />
+
+Here are my first three simulation results; above, you can see the Von Mises (stress), displacement, and strain. I first noticed, after getting the error code before, the displacement values. Currently, it is showing that my bracket's max displacement is 1.244x10^5mm or 124.4m which is about 400ft. This is completely unrealistic and shows there is something wrong with the simulation or my model itself. So after doing some looking and showing AI my results of what went wrong, I found that my material had not saved. I also found that when creating my materials, I input the wrong values and made them 1000 times smaller by putting a decimal instead of a comma, so I fixed that as well. 
+
+So after making sure my material was selected this time and double-checking that my model was all one solid body I ran the simulation again. 
