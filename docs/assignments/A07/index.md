@@ -158,11 +158,42 @@ In my second design, I massively cut the maximum stress and maximum displacement
 
 <img width="674" height="374" alt="image" src="https://github.com/user-attachments/assets/4970d1e8-8fee-43a5-b13a-6ea636c3fbb7" />
 
-<img width="794" height="344" alt="image" src="https://github.com/user-attachments/assets/a58c187a-90d8-473d-af01-0a3891a4e273" />
+<img width="325" height="344" alt="image" src="https://github.com/user-attachments/assets/67b7eb4b-2aaa-4c4a-99ca-cce3ce61ac92" />
 
 For my third design, I wanted to add a triangular support on the front of member B to member A (the cylinder)to transfer some of the load directly. Knowing triangles are the strongest and most supportive shape, I chose it to help brace my design to stop some of the deflection. To do this, I had to first remove the fillet I previously added for now so I could add the support in its place. I then added a reference geometry and selected the two outer top walls as references, and selected the mid plane. This will give me a plane in the middle of the design to sketch on so I can extrude the triangle support much more easily. I did have to stretch the plane a little to make it reach where I needed to sketch. Next, I sketched and extruded a triangle connecting the two members and set it to a thickness of .1in. I mirrored the extrusion across the midplane I made to make it symmetrical. Lastly, I added my previous fillets and added some new ones. 
 
+### Mesh 3.1/Simulation 3.1
 
+<img width="829" height="370" alt="image" src="https://github.com/user-attachments/assets/51863abe-f4d9-4cc7-ae96-2febdc57d7e4" />
+
+For this mesh, I set the maximum element size to .10in
+
+<img width="605" height="335" alt="image" src="https://github.com/user-attachments/assets/c4c77a99-ebaa-41de-8eac-faf7f14c8765" />
+
+<img width="557" height="342" alt="image" src="https://github.com/user-attachments/assets/60fdd1bc-cafd-451e-b9db-38c6a4212352" />
+
+<img width="577" height="359" alt="image" src="https://github.com/user-attachments/assets/e5b2ea7f-2726-4ace-ae0b-5ba2589576cc" />
+
+
+### Mesh 3.2/Simulation 3.2
+
+<img width="131" height="322" alt="image" src="https://github.com/user-attachments/assets/d9120b14-06ef-400c-9754-14a9cd8264cd" />
+
+<img width="497" height="343" alt="image" src="https://github.com/user-attachments/assets/4c728003-d24c-4036-ad29-10707058e9b9" />
+
+<img width="512" height="354" alt="image" src="https://github.com/user-attachments/assets/dcb45e3e-c332-455f-ab1d-767cfa65b236" />
+
+<img width="481" height="343" alt="image" src="https://github.com/user-attachments/assets/2a94010c-f5eb-4286-aa83-4c80c46cf6c4" />
+
+### Mesh 3.3/Simulation3.3
+
+<img width="128" height="278" alt="image" src="https://github.com/user-attachments/assets/8959bd71-b20d-41a8-8889-304eeac9753e" />
+
+<img width="515" height="347" alt="image" src="https://github.com/user-attachments/assets/f1cca2a4-71cd-4e04-bf47-073d72297706" />
+
+<img width="531" height="350" alt="image" src="https://github.com/user-attachments/assets/8dd87f16-22ef-437a-949e-162e83593d70" />
+
+<img width="525" height="352" alt="image" src="https://github.com/user-attachments/assets/2e808206-f88e-4f08-8fb0-5d8f96aa02fc" />
 
 ## CAD Files
 
