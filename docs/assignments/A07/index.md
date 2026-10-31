@@ -113,13 +113,42 @@ After just changing the mesh once from 8548 elements to 15560 elements, I was ab
 
 For my second design, I need to focus on the fact that most of the stress is in member B. So my thoughts at first were to, one, make it thicker, and two, add fillets at the meeting points of B and A, as well as B to the top. The thickness of member B was originally .06in so I just doubled it to .12in not to make it too much of a change, but enough to make a difference. Next, I added the fillets where member B connects and set it to a radius of .1in.
 
-### Mesh 2.1 / simulation 2.1
+### Mesh 2.1/simulation 2.1
 
 <img width="709" height="366" alt="image" src="https://github.com/user-attachments/assets/90f00ce7-7354-4cee-9423-0aedaa8ecaca" />
 
 <img width="312" height="282" alt="image" src="https://github.com/user-attachments/assets/a5ebf0a6-dc2d-442a-9450-3e94b6221f21" />
 
 For my first mesh of the second design, I set the element size to .1in which is where I ended on the previous design.
+
+<img width="527" height="341" alt="image" src="https://github.com/user-attachments/assets/7bc26a9e-af43-4f03-bb01-f28ff9659924" />
+
+<img width="508" height="338" alt="image" src="https://github.com/user-attachments/assets/7c4cccb4-7680-42a6-8267-85a25afa8fd3" />
+
+<img width="533" height="320" alt="image" src="https://github.com/user-attachments/assets/ac9f0da4-4fa4-4508-baf9-7ddbca505a31" />
+
+This design performs much better in all areas, lowering my stress and displacement by almost 75%, but it still isn't enough for my yield strength. 
+
+
+### Mesh 2.2/Simulation 2.2
+
+<img width="499" height="302" alt="image" src="https://github.com/user-attachments/assets/16aa33e4-3a60-458c-af40-74225e6143f6" />
+
+<img width="517" height="329" alt="image" src="https://github.com/user-attachments/assets/34241033-e152-404d-bc3d-1f9d20c5dc81" />
+
+<img width="518" height="336" alt="image" src="https://github.com/user-attachments/assets/60682810-2c7b-44eb-ac80-2c5869b293d2" />
+
+For the second mesh, I changed the element size to .75in. This met the 7% mesh convergence requirement, allowing me to not have to do a third mesh, and I can start on my third design. 
+
+### Design 2 Data Results
+
+<img width="479" height="131" alt="image" src="https://github.com/user-attachments/assets/5c1eb189-0474-440e-973c-699a9f4dddfa" />
+
+In my second design, I massively cut the maximum stress and maximum displacement down, but I did gain.01lbs of mass, and that doesn't matter with it being so minuscule. From this design changed i learned how such small changed can make a huge difference when design for stress and loading forces. A simple fillet or making a part ever so slightly larger can really help the design. However, in the future, I have to know that you can always just make things bigger to account for forces. 
+
+## Design 3
+
+For my third design, I wanted to add a triangular support on the front of member B to transfer some of the load directly. Knowing triangles are the strongest and most supportive shape, I chose it to help brace my design to stop some of the deflection. To do this, I had to first remove the fillet I previously added for now so I could add the support in its place. 
 ## CAD Files
 
 
