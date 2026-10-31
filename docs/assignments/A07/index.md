@@ -148,7 +148,22 @@ In my second design, I massively cut the maximum stress and maximum displacement
 
 ## Design 3
 
-For my third design, I wanted to add a triangular support on the front of member B to transfer some of the load directly. Knowing triangles are the strongest and most supportive shape, I chose it to help brace my design to stop some of the deflection. To do this, I had to first remove the fillet I previously added for now so I could add the support in its place. 
+<img width="241" height="335" alt="image" src="https://github.com/user-attachments/assets/a7914f8b-0619-4860-a93b-7d482c6c05b4" />
+
+<img width="311" height="282" alt="image" src="https://github.com/user-attachments/assets/bd3a171e-8fc7-425b-9702-31bf398dd871" />
+
+<img width="619" height="296" alt="image" src="https://github.com/user-attachments/assets/675abe1b-2fcf-49cf-a7f5-0f5142744d18" />
+
+<img width="800" height="372" alt="image" src="https://github.com/user-attachments/assets/dad825d9-8e52-4036-bb26-2833cb75b22a" />
+
+<img width="674" height="374" alt="image" src="https://github.com/user-attachments/assets/4970d1e8-8fee-43a5-b13a-6ea636c3fbb7" />
+
+<img width="794" height="344" alt="image" src="https://github.com/user-attachments/assets/a58c187a-90d8-473d-af01-0a3891a4e273" />
+
+For my third design, I wanted to add a triangular support on the front of member B to member A (the cylinder)to transfer some of the load directly. Knowing triangles are the strongest and most supportive shape, I chose it to help brace my design to stop some of the deflection. To do this, I had to first remove the fillet I previously added for now so I could add the support in its place. I then added a reference geometry and selected the two outer top walls as references, and selected the mid plane. This will give me a plane in the middle of the design to sketch on so I can extrude the triangle support much more easily. I did have to stretch the plane a little to make it reach where I needed to sketch. Next, I sketched and extruded a triangle connecting the two members and set it to a thickness of .1in. I mirrored the extrusion across the midplane I made to make it symmetrical. Lastly, I added my previous fillets and added some new ones. 
+
+
+
 ## CAD Files
 
 
