@@ -201,10 +201,13 @@ For this mesh, I set the maximum element size to .10in
 
 After three attempts, my mesh did not converge, so, going off the rules of the assignment, I will be using the finest mesh results. The triangle support did help some, but not as much as I predicted. I think maybe adding another support to the top of member B could have been enough to lower the displacement. 
 
+<img width="475" height="178" alt="image" src="https://github.com/user-attachments/assets/64707bd5-c100-4224-8f3c-35b8a906fbf9" />
+
 ## Lessons Learned
 
-The biggest thing I learned from this assignment is what it's like to design for a purpose and not just blindly model an object and hoping it works because you like the way it looks. In the real world, objects go through forces, stresses, and other external factors that can change our artifact or even cause failure. So when designing something that you know is going to go through something like this, it's a much different process than designing something with a snap fit or linkage. Another lesson I learned is engineering is never a one-and-done solution. In the end, my design did not come out to be able to work with the forces applied to it if this were the real world. There was more stress than my material had yield strength, and this would've cause major failure if a real object. This was after doing three different iterations to my design to make it stronger and more supported. This shows that engineering a real design for a job may take multiple prototypes and many different iterations to your initial design before you have a producible product. 
+The biggest thing I learned from this assignment is what it's like to design for a purpose and not just blindly model an object and hope it works because you like the way it looks. In the real world, objects go through forces, stresses, and other external factors that can change our artifact or even cause failure. So when designing something that you know is going to go through something like this, it's a much different process than designing something with a snap fit or linkage. Another lesson I learned is engineering is never a one-and-done solution. In the end, my design did not come out to be able to work with the forces applied to it if this were the real world. There was more stress than my material had yield strength, and this would've cause major failure if a real object. This was after doing three different iterations to my design to make it stronger and more supported. This shows that engineering a real design for a job may take multiple prototypes and many different iterations to your initial design before you have a producible product. 
 
+I spent a total of around 13 hours on this assignment. 
 ## CAD Files
 [A6 Bracket design 3.zip](https://github.com/user-attachments/files/34209243/A6.Bracket.design.3.zip)
 
