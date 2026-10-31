@@ -45,7 +45,7 @@ For the first fixture, I added a fixed geometry on the underside of feature E. T
 
 Next, I added a distributed force on Feature A, the cylinder. I chose the force to be equal to 600 lbf, and W = 2F, so the force will be 1200lbf. I selected the cylinder to be the shape the force is acting on, then one of the vertical corner edges for the direction it would be acting in. However, it kept going upwards, so I had to select it to reverse direction. Lastly, I changed it to English(IPS) units and set it to 1200lbf.
 
-### Mesh 1
+### Mesh 1.1
 
 <img width="755" height="372" alt="image" src="https://github.com/user-attachments/assets/91518f96-44cd-427d-a4fc-c8fe992f1b1f" />
 
@@ -79,7 +79,7 @@ So after making sure my material was selected this time and double-checking that
 
 After running the simulations again, my stress and displacement values were still way over the maximum allowed values. So, to start working towards fixing this, I added the chart annotation to show where the pinpoint maximum values were. I also got my mesh details so I could start my first mesh convergence. 
 
-### Mesh 2/Simulation 2
+### Mesh 1.2/Simulation 1.2
 
 <img width="134" height="332" alt="image" src="https://github.com/user-attachments/assets/be462a8b-2468-4199-ad01-71f262bb5c24" />
 
@@ -99,6 +99,28 @@ After just the second mesh, my design hit the 7% mesh convergence requirement, b
 
 ### Design 1 Data Results
 
-<img width="516" height="197" alt="image" src="https://github.com/user-attachments/assets/b2facb42-7d40-471c-b61e-e56dc925cb4c" />
-
 <img width="478" height="133" alt="image" src="https://github.com/user-attachments/assets/389fbba8-686e-4c26-a104-ca8e9c8519e5" />
+
+After just changing the mesh once from 8548 elements to 15560 elements, I was able to get under the 7% mesh convergence requirement. But I learned that my design is not physically possible and has extremely high stress values that I need to fix. I do now know where the exact max stresses are and what areas I need to focus on in my second design. 
+
+## Design 2
+
+<img width="755" height="329" alt="image" src="https://github.com/user-attachments/assets/7e7b03f2-4dfb-488d-a3b2-980273d07b7a" />
+
+<img width="717" height="380" alt="image" src="https://github.com/user-attachments/assets/594be5df-7c56-46dd-872d-2df3f87acd0a" />
+
+<img width="326" height="343" alt="image" src="https://github.com/user-attachments/assets/23610152-f38f-402a-bcf0-d1786eaead35" />
+
+For my second design, I need to focus on the fact that most of the stress is in member B. So my thoughts at first were to, one, make it thicker, and two, add fillets at the meeting points of B and A, as well as B to the top. The thickness of member B was originally .06in so I just doubled it to .12in not to make it too much of a change, but enough to make a difference. Next, I added the fillets where member B connects and set it to a radius of .1in.
+
+### Mesh 2.1 / simulation 2.1
+
+<img width="709" height="366" alt="image" src="https://github.com/user-attachments/assets/90f00ce7-7354-4cee-9423-0aedaa8ecaca" />
+
+<img width="312" height="282" alt="image" src="https://github.com/user-attachments/assets/a5ebf0a6-dc2d-442a-9450-3e94b6221f21" />
+
+For my first mesh of the second design, I set the element size to .1in which is where I ended on the previous design.
+## CAD Files
+
+
+
