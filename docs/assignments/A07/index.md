@@ -69,10 +69,10 @@ Here are my first three simulation results; above, you can see the Von Mises (st
 
 So after making sure my material was selected this time and double-checking that my model was all one solid body I ran the simulation again. 
 
-<img width="951" height="378" alt="image" src="https://github.com/user-attachments/assets/a073ec62-3aba-49e4-b9d3-3fa1df0dff23" />
+<img width="341" height="300" alt="image" src="https://github.com/user-attachments/assets/ccc6b894-b2d8-4ca1-981f-8416a042a1c3" />
 
-<img width="928" height="391" alt="image" src="https://github.com/user-attachments/assets/2e87920c-5d2b-48f9-bf4b-7c21cb3dd20c" />
+<img width="581" height="359" alt="image" src="https://github.com/user-attachments/assets/9efe61e1-b0f1-4855-9c5a-9258bf0b5da6" />
 
-<img width="908" height="371" alt="image" src="https://github.com/user-attachments/assets/64c3815f-3eab-42b9-bc15-04fbfe0bd643" />
+<img width="593" height="370" alt="image" src="https://github.com/user-attachments/assets/675df3e6-7db0-4328-8419-a6092dfad4ff" />
 
-After running the simulations again, my stress and displacement values were still way over the maximum allowed values. 
+After running the simulations again, my stress and displacement values were still way over the maximum allowed values. So, to start working towards fixing this, I added the chart annotation to show where the pinpoint maximum values were. 
