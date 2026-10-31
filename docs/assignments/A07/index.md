@@ -203,7 +203,7 @@ After three attempts, my mesh did not converge, so, going off the rules of the a
 
 ## Lessons Learned
 
-
+The biggest thing I learned from this assignment is what it's like to design for a purpose and not just blindly model an object and hoping it works because you like the way it looks. In the real world, objects go through forces, stresses, and other external factors that can change our artifact or even cause failure. So when designing something that you know is going to go through something like this, it's a much different process than designing something with a snap fit or linkage. Another lesson I learned is engineering is never a one-and-done solution. In the end, my design did not come out to be able to work with the forces applied to it if this were the real world. There was more stress than my material had yield strength, and this would've cause major failure if a real object. This was after doing three different iterations to my design to make it stronger and more supported. This shows that engineering a real design for a job may take multiple prototypes and many different iterations to your initial design before you have a producible product. 
 
 ## CAD Files
 [A6 Bracket design 3.zip](https://github.com/user-attachments/files/34209243/A6.Bracket.design.3.zip)
