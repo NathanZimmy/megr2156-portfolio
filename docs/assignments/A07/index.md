@@ -144,7 +144,7 @@ For the second mesh, I changed the element size to .75in. This met the 7% mesh c
 
 <img width="479" height="131" alt="image" src="https://github.com/user-attachments/assets/5c1eb189-0474-440e-973c-699a9f4dddfa" />
 
-In my second design, I massively cut the maximum stress and maximum displacement down, but I did gain.01lbs of mass, and that doesn't matter with it being so minuscule. From this design changed i learned how such small changed can make a huge difference when design for stress and loading forces. A simple fillet or making a part ever so slightly larger can really help the design. However, in the future, I have to know that you can always just make things bigger to account for forces. 
+In my second design, I massively cut the maximum stress and maximum displacement down, but I did gain.01lbs of mass, and that doesn't matter with it being so minuscule. From this design changed i learned how such small changed can make a huge difference when design for stress and loading forces. A simple fillet or making a part ever so slightly larger can really help the design. However, in the future, I have to remember that you can't always just make things bigger to account for forces. 
 
 ## Design 3
 
@@ -195,7 +195,18 @@ For this mesh, I set the maximum element size to .10in
 
 <img width="525" height="352" alt="image" src="https://github.com/user-attachments/assets/2e808206-f88e-4f08-8fb0-5d8f96aa02fc" />
 
+### Design 3 Data Results
+
+<img width="479" height="138" alt="image" src="https://github.com/user-attachments/assets/b3339cad-5f85-40ef-9b00-48ace562b8da" />
+
+After three attempts, my mesh did not converge, so, going off the rules of the assignment, I will be using the finest mesh results. The triangle support did help some, but not as much as I predicted. I think maybe adding another support to the top of member B could have been enough to lower the displacement. 
+
+## Lessons Learned
+
+
+
 ## CAD Files
+[A6 Bracket design 3.zip](https://github.com/user-attachments/files/34209243/A6.Bracket.design.3.zip)
 
 
 
