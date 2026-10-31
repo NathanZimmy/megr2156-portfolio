@@ -75,4 +75,30 @@ So after making sure my material was selected this time and double-checking that
 
 <img width="593" height="370" alt="image" src="https://github.com/user-attachments/assets/675df3e6-7db0-4328-8419-a6092dfad4ff" />
 
-After running the simulations again, my stress and displacement values were still way over the maximum allowed values. So, to start working towards fixing this, I added the chart annotation to show where the pinpoint maximum values were. 
+<img width="222" height="185" alt="image" src="https://github.com/user-attachments/assets/8af51ded-4802-45c7-bbfa-688cab87b526" />
+
+After running the simulations again, my stress and displacement values were still way over the maximum allowed values. So, to start working towards fixing this, I added the chart annotation to show where the pinpoint maximum values were. I also got my mesh details so I could start my first mesh convergence. 
+
+### Mesh 2/Simulation 2
+
+<img width="134" height="332" alt="image" src="https://github.com/user-attachments/assets/be462a8b-2468-4199-ad01-71f262bb5c24" />
+
+For my second mesh, I changed my maximum element size from 0.128937in to .1in. This is approximately a %22 reduction in size to let me see a more defined result. 
+
+<img width="543" height="361" alt="image" src="https://github.com/user-attachments/assets/208bafbd-ee58-45a6-ba5e-a97c97370835" />
+
+<img width="551" height="359" alt="image" src="https://github.com/user-attachments/assets/b3e84ed7-9097-4764-8e41-9955a5189034" />
+
+<img width="530" height="365" alt="image" src="https://github.com/user-attachments/assets/be71f21e-8b64-4090-a7cc-8b11c4bea737" />
+
+<img width="275" height="261" alt="image" src="https://github.com/user-attachments/assets/aa87aa58-6b59-4ad5-be12-4786f96d3f5b" />
+
+<img width="350" height="503" alt="image" src="https://github.com/user-attachments/assets/8b9735a9-e8b6-43ff-86c2-b1c355604b6a" />
+
+After just the second mesh, my design hit the 7% mesh convergence requirement, but the stress and displacement values are way over, so I will have to fix this in my second design. 
+
+### Design 1 Data Results
+
+<img width="516" height="197" alt="image" src="https://github.com/user-attachments/assets/b2facb42-7d40-471c-b61e-e56dc925cb4c" />
+
+<img width="478" height="133" alt="image" src="https://github.com/user-attachments/assets/389fbba8-686e-4c26-a104-ca8e9c8519e5" />
