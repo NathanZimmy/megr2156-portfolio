@@ -58,10 +58,12 @@ For my material, I looked at Table 4 of sintered metal and nonmetallic bearings.
 
 ## Frame Design
 
+<img width="193" height="149" alt="image" src="https://github.com/user-attachments/assets/a18d48d8-3b66-4c90-8168-66b6ed15fa2f" />
 
+Here is a hand drawing of my frame design using the dimensions I calculated. 
 ## Lessons Learned
 
-This assignment as a whole was pretty straightforward and seemed easier than the rest, but maybe that is because I am learning how to better understand how to solve for real-world applications from scratch like this. I specifically learned from this assignment how solving for the minimum values of parts you need is very easily changeable when you actually pick a part. None of my minimum diameter values are actually the values I go with. I rounded all of them up to realistic sizes of parts that can be manufactured. This had some pluses of much easier to get the part, and it reaches the safety factors easier but its downside in the future may be I dont have the space or clearance to round up so easily like I did here. 
+This assignment as a whole was pretty straightforward and seemed easier than the rest, but maybe that is because I am learning how to better understand how to solve for real-world applications from scratch like this. I specifically learned from this assignment how solving for the minimum values of parts you need is very easily changeable when you actually pick a part. None of my minimum diameter values are actually the values I go with. I rounded all of them up to realistic sizes of parts that can be manufactured. This had some pluses of much easier to get the part, and it reaches the safety factors more easily, but its downside in the future may be that I dont have the space or clearance to round up so easily like I did here. 
 
 This assignment took me a total of 3 hours
 
