@@ -25,14 +25,29 @@ Assume the belt is made from polyurethane rubber, with a yield strength of 3.25 
 
 ## Belt Design
 
-[CamScanner 11-5-26 06.05.pdf](https://github.com/user-attachments/files/34422288/CamScanner.11-5-26.06.05.pdf)
+<img width="209" height="248" alt="image" src="https://github.com/user-attachments/assets/2049ed0e-bca7-4ce8-b991-cdf02c49c618" />
 
-For this design I started by listing all my known and values im solving for. I then drew a free body diagram so i know where my forces are and how to solve it. Some choices I made for my known values were 1500rpm, 5in between pully centers, and initial tension of 5lbf. We were given ranges to pick between for these values so i chose right in the middle for all of them. When solving for diameter I got a Dmin = .279in. This number was very ugly and no real belt will have this dimension. So I turned it into a fraction so I could compare it to a real belt off McMaster parts. It is about 7/25 which is close to 5/16 or .3125in. This will allow me to choose a part from McMaster easier. I did check to make sure this dimension would work with the given safety factor of three and it works. 
+For this design, I started by listing all my known values and the values I'm solving for. I then drew a free-body diagram, so I know where my forces are and how to solve it. Some choices I made for my known values were 1500rpm, 5in between pulley centers, and initial tension of 5lbf. We were given ranges to pick between for these values, so I chose right in the middle for all of them. When solving for diameter, I got a Dmin = .279in. This number was very ugly, and no real belt will have this dimension. So I turned it into a fraction so I could compare it to a real belt off McMaster parts. It is about 7/25, which is close to 5/16 or .3125in. This will allow me to choose a part from McMaster easier. I did check to make sure this dimension would work with the given safety factor of three, and it works. 
 
 ### McMaster Belt choice
 
 <img width="698" height="344" alt="image" src="https://github.com/user-attachments/assets/6782b2db-bf31-415f-855b-6f7195812239" />
 
-After playing around on McMaster and scrolling through belts i found these made to order chemically resistant belts. It doesnt need to be chemically resistant for our design but i thought it sounded cool and it is made to order so I can choose the size to fit my values. I chose the 9462T58 model which has a diameter of 5/16 exact value of my calculations as well as it had a range of circumferences that fit my value. The material is Polyurethane rubber as well as i can make it an orange color which is cool. 
+After playing around on McMaster and scrolling through belts, I found these made-to-order chemically resistant belts. It doesn't need to be chemically resistant for our design, but I thought it sounded cool, and it is made to order so I can choose the size to fit my values. I chose the 9462T58 model, which has a diameter of 5/16 exact value of my calculations as well as it had a range of circumferences that fit my value. The material is Polyurethane rubber, and I can make it an orange color, which is cool. 
+
+## Shaft Design
+
+<img width="296" height="125" alt="image" src="https://github.com/user-attachments/assets/e4c0361d-aa3c-4a26-a0c9-18be1246b568" />
+
+<img width="476" height="91" alt="image" src="https://github.com/user-attachments/assets/4eec6264-2c4c-4890-8896-50dc0a75c96f" />
+
+I went online to find the properties of a 1060 steel so I could have the yield strength values to solve for. 
+
+<img width="212" height="234" alt="image" src="https://github.com/user-attachments/assets/8149b412-a1be-445a-be56-ba06f75f94bb" />
+
+
+## Journal Bearing Design
+
+
 
 
