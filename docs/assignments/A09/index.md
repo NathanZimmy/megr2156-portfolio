@@ -48,6 +48,10 @@ I went online to find the properties of a 1060 steel so I could have the yield s
 
 ## Journal Bearing Design
 
+## Lessons Learned
 
+This assignment as a whole was pretty straightforward and seemed easier than the rest, but maybe that is because I am learning how to better understand how to solve for real-world applications from scratch like this. I specifically learned from this assignment how solving for the minimum values of parts you need is very easily changeable when you actually pick a part. None of my minimum diameter values are actually the values I go with. I rounded all of them up to realistic sizes of parts that can be manufactured. This had some pluses of much easier to get the part, and it reaches the safety factors easier but its downside in the future may be I dont have the space or clearance to round up so easily like I did here. 
+
+This assignment took me a total of 3 hours
 
 
