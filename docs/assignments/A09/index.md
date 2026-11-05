@@ -52,6 +52,11 @@ I went online to find the properties of a 1060 steel so I could have the yield s
 
 ### Material Selection (Machinery's Handbook)
 
+<img width="487" height="347" alt="image" src="https://github.com/user-attachments/assets/8ada11ab-035c-46d4-9eba-82eab12931f6" />
+
+For my material, I looked at Table 4 of sintered metal and nonmetallic bearings. I found that porous bronze was a good match for my values. 
+
+## Frame Design
 
 
 ## Lessons Learned
