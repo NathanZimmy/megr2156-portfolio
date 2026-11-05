@@ -23,9 +23,16 @@ Assume the belt is made from polyurethane rubber, with a yield strength of 3.25 
 
 <img width="525" height="176" alt="image" src="https://github.com/user-attachments/assets/9b879e4c-0907-4266-989d-9fcdeb789f46" />
 
+## Belt Design
 
+[CamScanner 11-5-26 06.05.pdf](https://github.com/user-attachments/files/34422288/CamScanner.11-5-26.06.05.pdf)
 
+For this design I started by listing all my known and values im solving for. I then drew a free body diagram so i know where my forces are and how to solve it. Some choices I made for my known values were 1500rpm, 5in between pully centers, and initial tension of 5lbf. We were given ranges to pick between for these values so i chose right in the middle for all of them. When solving for diameter I got a Dmin = .279in. This number was very ugly and no real belt will have this dimension. So I turned it into a fraction so I could compare it to a real belt off McMaster parts. It is about 7/25 which is close to 5/16 or .3125in. This will allow me to choose a part from McMaster easier. I did check to make sure this dimension would work with the given safety factor of three and it works. 
 
+### McMaster Belt choice
 
+<img width="698" height="344" alt="image" src="https://github.com/user-attachments/assets/6782b2db-bf31-415f-855b-6f7195812239" />
+
+After playing around on McMaster and scrolling through belts i found these made to order chemically resistant belts. It doesnt need to be chemically resistant for our design but i thought it sounded cool and it is made to order so I can choose the size to fit my values. I chose the 9462T58 model which has a diameter of 5/16 exact value of my calculations as well as it had a range of circumferences that fit my value. The material is Polyurethane rubber as well as i can make it an orange color which is cool. 
 
 
