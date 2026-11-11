@@ -33,7 +33,7 @@ I started by adding fixed geometries to all the screw holes where the crosshead 
 
 <img width="277" height="243" alt="image" src="https://github.com/user-attachments/assets/d21b2528-6e01-49fe-822f-83fad6af97b3" />
 
-After running the first test we can see that we have no strain and our deflection is very little having a max of .005mm which is pretty much negligible. However, our max stress is 10257662N/M^2 but it is a huge stress concertation at the innermost screw holes with the rest of our model having a much less stress.  
+After running the first test we can see that we have no strain and our deflection is very little having a max of .005mm which is pretty much negligible. However, our max stress is 10257662N/M^2 but it is a huge stress concertation at the innermost screw holes with the rest of our model having a much less stress. But this value is okay because our material yield strength is 275 Mpa or 275000000pa so we are way under this value. 
 
 For this first test I did not edit the mesh and left it as was.
 
@@ -63,7 +63,7 @@ To try and reduce the stress on the screw hole I added a .1in fillet on all the 
 
 <img width="770" height="358" alt="image" src="https://github.com/user-attachments/assets/be5f889e-e376-4cc5-b3f8-c3d6166456b0" />
 
-After adding the fillets and running another test we found that this actually raised our max stress by over 1 million pascals. 
+After adding the fillets and running another test we found that this actually raised our max stress by over 1 million pascals. While this isn't what we were going for its okay because this is still way under our maximum yield strength. 
 
 Optimization 2
 
