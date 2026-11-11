@@ -23,7 +23,7 @@ We are using 6061-T6-SS which is an aluminum alloy with a yield strength of 275M
 
 I started by adding fixed geometries to all the screw holes where the crosshead will be mounted assuming the screws are perfectly rigid in this assignment. This will hold those ends in place. Then I added a force on the center hole of 2KN or 2000N and clicked selected direction. this is because if I simply click the holy the force will be applied in all directions around the circumference of the cylindrical hole. So, with using selected direction I can click the top surface and have the force be pointed downwards through the hole which is where the part that is being tested will be applying the force onto the crosshead. 
 
-### Test 1
+### Test 0.1
 
 <img width="803" height="377" alt="image" src="https://github.com/user-attachments/assets/49acd147-e292-47f2-b2fa-813a2c5cb2db" />
 
@@ -37,7 +37,7 @@ After running the first test we can see that we have no strain and our deflectio
 
 For this first test I did not edit the mesh and left it as was.
 
-### Test 2
+### Test 0.2
 
 <img width="818" height="370" alt="image" src="https://github.com/user-attachments/assets/67c8d6c5-1bab-46aa-a350-a89ae0754a46" />
 
@@ -53,5 +53,12 @@ For this second test all I did was change the max element size of the mesh to .6
 
 After changing the mech size to a smaller element size the stress concentration went up but the other values stayed the same. So we know the screw holes are where the problems are and we also know the average stress throughout the model is very low compared to the max which will allow us to cut out some of the material. 
 
+### Optimization 1
 
+<img width="521" height="289" alt="image" src="https://github.com/user-attachments/assets/c6e63ccb-24cb-4d3a-8ebe-d27719d0fc73" />
 
+To try and reduce the stress on the screw hole I added a .1in fillet on all the holes . 
+
+#### Test 1.1
+
+<img width="770" height="358" alt="image" src="https://github.com/user-attachments/assets/be5f889e-e376-4cc5-b3f8-c3d6166456b0" />
