@@ -65,7 +65,7 @@ To try and reduce the stress on the screw hole I added a .1in fillet on all the 
 
 After adding the fillets and running another test we found that this actually raised our max stress by over 1 million pascals. While this isn't what we were going for its okay because this is still way under our maximum yield strength. 
 
-Optimization 2
+### Optimization 2
 
 <img width="580" height="332" alt="image" src="https://github.com/user-attachments/assets/c0335c8c-f787-44a6-8212-9fa193a5ddc7" />
 
@@ -74,6 +74,8 @@ Optimization 2
 <img width="673" height="317" alt="image" src="https://github.com/user-attachments/assets/a9e44183-41cd-458d-adc9-f8236ab6068c" />
 
 After seeing that most of the material in our crosshead undergoes almost no stress or deflection we wanted to remove some of the material to save on weight. So, I cut out sections in the center of the body and used the mirror feature to mirror the one sketch into four across both centerline. 
+
+#### Test 2.1
 
 <img width="581" height="290" alt="image" src="https://github.com/user-attachments/assets/98f89727-5dec-44a4-8cdc-9bc2e4d76586" />
 
