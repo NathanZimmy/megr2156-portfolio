@@ -1,10 +1,123 @@
 # A10 – Lead Screw Design
 
-## Objective
+## Minimum Diameter Logan Sulyi
+
+The knowns include the total force, 2 kN, which is 1 kN per screw; a safety factor of 4; and the material is 1045 cold-drawn steel, so the yield strength is 530 MPa. To solve for the minimum diameter, I used the equations for axial and allowable stress, and found the minimum diameter to be 3.10mm (0.122 in).
+
+<img width="3050" height="3577" alt="IMG_3677" src="https://github.com/user-attachments/assets/4c77c622-273b-4b79-b82c-4cca8a43321b" />
 
 
-## Analyze
+## Rotational Speed Logan Sulyi
 
+The knowns for the rotational speed are the crosshead speed, Vmin = 1 mm/min, and Vmax = 50 mm/min. The Lead equals 0.25 in, which equates to 6.35 mm/rev for a 2-start screw. The pitch is 0.125 in. The unknowns are the maximum and minimum rotational speeds. Using the equation N = V / L, I found the minimum rotational speed to be 0.157 rpm, and the maximum rotational speed to be 7.87 rpm.
+
+<img width="3416" height="3831" alt="IMG_3678" src="https://github.com/user-attachments/assets/74dc2f83-018a-4d5b-82d4-ab88924713f7" />
+
+
+## Max Torque Logan Sulyi
+
+The knowns for the maximum torque are the load per screw, 1 kN, which equates to 224.8 lbf. The lead equals 0.25 in, and the diameter equals 0.5 in. Using the efficiency provided, I used the formula included below and calculated the maximum torque to be 17.2 in*lbf.
+
+<img width="3464" height="3423" alt="AdobeExpressPhotos_011b1fb3e1f64902842edfabed110a32_CopyEdited" src="https://github.com/user-attachments/assets/4b87b027-e977-4d24-bc45-d4dd34d93942" />
+
+
+## Lead Screw Selection Logan Sulyi
+
+After looking at my numbers, I chose a 1018 Carbon Steel Precision Acme Lead Screw for this project. It is a Class 2C thread fit, and it is 3 ft long.
+<img width="1182" height="690" alt="image" src="https://github.com/user-attachments/assets/afe9ff48-b64e-4645-a825-f9ff8b9b2fba" />
+
+
+## Nut and Flange Logan Sulyi
+
+Knowns for the nut and flange include the load per screw (224.8 lbf), nut diameter (0.5 in), and pitch (0.125 in). The height is half the pitch: 0.0625 in. The safety factor is 4, and after choosing the nut, the material is 673 bronze, meaning the yield strength is 30 ksi.
+
+<img width="3424" height="4687" alt="IMG_3680" src="https://github.com/user-attachments/assets/51b31db3-cefc-4a44-b0cb-5c7659fdb1cd" />
+
+
+## Crossshead Strength & Deflection Logan Sulyi
+
+The knowns for the crosshead include the load (2 kN, which equals 449.6 lbf),  the length between screws (8 in), and the width (3 in). The safety factor is 4, and after picking the material to be 6061-T6 aluminum, I found the yield strength to be 35 ksi. Using the maximum bending moment, area moment of inertia, and the minimum beam height, I found the height to be 0.453 in (11.5mm).
+
+For the deflection, the knowns are the same, except we also include the maximum deflection, which is 0.1 mm, which equates to 0.003937 in, and the young modulus, which is 10 x 10⁶ psi. Using the maximum deflection and area moment of inertia equations, I calculated the deflection to be 0.0206 in.
+
+<img width="3696" height="4391" alt="IMG_3681" src="https://github.com/user-attachments/assets/b6ed64b0-55c0-47bf-a564-871db460c608" />
+
+
+
+## Crosshead Size and Material Logan Sulyi
+
+The knowns for the size and material include the load (2 kN, which equals 449.6 lbf),  the length between screws (8 in), and the width (3 in). The safety factor is 4, the maximum deflection, which is 0.1 mm, which equates to 0.003937 in, and the young modulus, which is 10 x 10⁶ psi. Using the  maximum deflection and area moment of inertia equations, I calculated the thickness to be 1.249 in.
+
+
+<img width="3117" height="4003" alt="IMG_3682 (1)" src="https://github.com/user-attachments/assets/03b2d060-9d71-4e94-97f3-60ab4904cec8" />
+
+
+
+## Multiview Sketch of Crosshead Logan Sulyi
+
+Below is a multiview sketch of the crosshead. It is an 11 in long by 3 in wide by 1.5 in thick rectangle made out of 6061-T6 Aluminum. The two screw holes are 0.5625 inches in diameter, 8 inches apart. The smaller screw holes are 0.266 inches in diameter, 0.453 inches away from the larger screw hole.
+
+<img width="3633" height="3773" alt="IMG_3685 (1)" src="https://github.com/user-attachments/assets/3aab28b0-98e2-42b2-ae9c-0902ce34517b" />
+
+
+
+## Bill of Materials Logan Sulyi
+Listed below is our Bill of Materials, which includes the lead screw, the threaded nut, the flange, head screws, and an aluminum bar for the crosshead.
+<img width="425" height="526" alt="image" src="https://github.com/user-attachments/assets/3c7f5743-0c83-4ce6-8b26-c36932a66089" />
+
+
+
+## Parametric Modeling - Austin Williams
+
+Crosshead Design:
+
+Based on the calculations from my group members, I started the crossmember design as a rectangle 11" X 3"
+
+<img width="556" height="212" alt="image" src="https://github.com/user-attachments/assets/4c4d0883-b804-4ee2-85d1-ae7ff54d9c6b" />
+
+Next, I needed to make the holes for the leadscrews; I was able to make the holes using a linear sketch pattern that created perfect geometry across the crosshead. The size of the holes was also based on the previous calculations.
+
+<img width="753" height="318" alt="image" src="https://github.com/user-attachments/assets/2add0f07-7ea3-444f-b99e-031d1cadb307" />
+
+Once that was done, I extruded the holes through so that the screws could go through
+
+<img width="643" height="269" alt="image" src="https://github.com/user-attachments/assets/e2c2a8f9-d2c7-4314-a342-2b9cd7b17da3" />
+
+Here are the parametric equations used to make the crosshead:
+
+<img width="593" height="244" alt="image" src="https://github.com/user-attachments/assets/bb8fa88d-1b49-4af2-951d-62e99177ac4e" />
+
+After that, I downloaded the necessary parts to complete the assembly
+
+Here is the channel that I used for the frame of the machine; This is a rectangular-style channel.
+
+<img width="1120" height="641" alt="image" src="https://github.com/user-attachments/assets/7bf92fdc-e46b-44c1-9164-b11323287806" />
+
+<img width="332" height="188" alt="image" src="https://github.com/user-attachments/assets/65374971-52bb-4771-a457-34d8606b2080" />
+
+The first major issue that I ran into was that the CAD files were imported from another software, so I could not change the dimensions of the channel as needed to create the correct sizes for our assembly. I solved this by creating a new plane along the axis of the channel, making a sketch around the channel, and extruding the extra length out of the equation.
+
+<img width="821" height="549" alt="image" src="https://github.com/user-attachments/assets/74f743d7-1a25-4a2b-b1e9-3b216cfb6ade" />
+
+I had to repeat that step twice to get the sides and the top/bottom of the frame.
+
+<img width="877" height="568" alt="image" src="https://github.com/user-attachments/assets/1677c3c2-e42b-4da2-a0db-6a6900d9ba3c" />
+
+The assembly itself was not terrible, but it was very time-consuming because mates don't always like to work with each other in SolidWorks
+
+Below are a few pictures of the full assembly from different angles;
+
+<img width="326" height="602" alt="image" src="https://github.com/user-attachments/assets/2fc30db6-071e-4449-b41b-6a21372121cb" />
+
+****Note**** - The assembly in SolidWorks did not want to stay together properly, so I had to use an auto 3D feature in SolidWorks to visually get rid of the threads for the assembly. I was going to try it without that; however, the software automatically did this on its own. The parts would physically fit in a real-life scenario, but the threads on the crosshead did not match 100% to the leadscrews, and I have no way of making them the exact same myself.
+
+<img width="462" height="432" alt="image" src="https://github.com/user-attachments/assets/e0d53920-7875-4f01-add6-53e0d8113d95" />
+
+This final picture shows the flange, screws, and the nut that were required for our tensile tester.
+
+<img width="398" height="299" alt="image" src="https://github.com/user-attachments/assets/87468528-4be0-4b69-b3c1-fd9620c18dab" />
+
+[CAD Files Here](https://github.com/AustinW-UNCC/megr2157-portfolio/blob/main/Final%20Assembly%20A10.SLDASM)
 
 ## Decide
 _Reference your concept selection (Pugh matrix) here. How does this design follow from that decision?_
