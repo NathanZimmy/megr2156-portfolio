@@ -62,3 +62,14 @@ To try and reduce the stress on the screw hole I added a .1in fillet on all the 
 #### Test 1.1
 
 <img width="770" height="358" alt="image" src="https://github.com/user-attachments/assets/be5f889e-e376-4cc5-b3f8-c3d6166456b0" />
+
+After adding the fillets and running another test we found that this actually raised our max stress by over 1 million pascals. 
+
+Optimization 2
+
+<img width="580" height="332" alt="image" src="https://github.com/user-attachments/assets/c0335c8c-f787-44a6-8212-9fa193a5ddc7" />
+
+<img width="454" height="254" alt="image" src="https://github.com/user-attachments/assets/577954f7-91ec-474f-a948-aec8c34c5182" />
+
+<img width="673" height="317" alt="image" src="https://github.com/user-attachments/assets/a9e44183-41cd-458d-adc9-f8236ab6068c" />
+
