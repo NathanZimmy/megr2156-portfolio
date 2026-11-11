@@ -21,4 +21,4 @@ We are using 6061-T6-SS which is an aluminum alloy with a yield strength of 275M
 
 <img width="800" height="352" alt="image" src="https://github.com/user-attachments/assets/21af7a46-a1cb-44a4-86c0-e802ead049a5" />
 
-I started by adding fixed geometries to all the screw holes where the crosshead will be mounted assuming the screws are perfectly rigid in this assignment. This will hold those ends in place. Then I added a force on the center hole of 2KN or 2000N and set it 
+I started by adding fixed geometries to all the screw holes where the crosshead will be mounted assuming the screws are perfectly rigid in this assignment. This will hold those ends in place. Then I added a force on the center hole of 2KN or 2000N and clicked selected direction. this is because if I simply click the holy the force will be applied in all directions around the circumference of the cylindrical hole. So, with using selected direction I can click the top surface and have the force be pointed downwards through the hole which is where the part that is being tested will be applying the force onto the crosshead. 
