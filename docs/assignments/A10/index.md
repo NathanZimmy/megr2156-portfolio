@@ -84,3 +84,9 @@ After seeing that most of the material in our crosshead undergoes almost no stre
 <img width="649" height="333" alt="image" src="https://github.com/user-attachments/assets/e41c247e-f64a-46e4-bafc-820d21e0aaf7" />
 
 After running another test the cutouts actually raised our stress and deflection but not by enough where it hurts our model.
+
+## Engineering Drawing
+
+<img width="418" height="323" alt="image" src="https://github.com/user-attachments/assets/9c2af9dd-95a3-4ff7-b1e6-e3fc1445713b" />
+
+Here is the drawing of the optimized crosshead model.
