@@ -73,3 +73,12 @@ Optimization 2
 
 <img width="673" height="317" alt="image" src="https://github.com/user-attachments/assets/a9e44183-41cd-458d-adc9-f8236ab6068c" />
 
+After seeing that most of the material in our crosshead undergoes almost no stress or deflection we wanted to remove some of the material to save on weight. So, I cut out sections in the center of the body and used the mirror feature to mirror the one sketch into four across both centerline. 
+
+<img width="581" height="290" alt="image" src="https://github.com/user-attachments/assets/98f89727-5dec-44a4-8cdc-9bc2e4d76586" />
+
+<img width="575" height="289" alt="image" src="https://github.com/user-attachments/assets/94a147e9-1781-4889-8664-fbd44b5a82f1" />
+
+<img width="649" height="333" alt="image" src="https://github.com/user-attachments/assets/e41c247e-f64a-46e4-bafc-820d21e0aaf7" />
+
+After running another test the cutouts actually raised our stress and deflection but not by enough where it hurts our model.
