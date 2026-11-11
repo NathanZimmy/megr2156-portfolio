@@ -41,5 +41,17 @@ For this first test I did not edit the mesh and left it as was.
 
 <img width="818" height="370" alt="image" src="https://github.com/user-attachments/assets/67c8d6c5-1bab-46aa-a350-a89ae0754a46" />
 
+<img width="569" height="203" alt="image" src="https://github.com/user-attachments/assets/def012ab-b614-4a99-82c7-aa567b825514" />
+
 For this second test all I did was change the max element size of the mesh to .6in making it more fine to see how the values would change before I edit the model. 
+
+<img width="767" height="353" alt="image" src="https://github.com/user-attachments/assets/3338d9b0-8574-4271-837b-2b88edfd00b2" />
+
+<img width="730" height="365" alt="image" src="https://github.com/user-attachments/assets/25a79eb7-9dca-4e84-9080-279195d2e6c0" />
+
+<img width="739" height="362" alt="image" src="https://github.com/user-attachments/assets/82d4a22f-a150-4e05-bebc-18eb0d6128b5" />
+
+After changing the mech size to a smaller element size the stress concentration went up but the other values stayed the same. So we know the screw holes are where the problems are and we also know the average stress throughout the model is very low compared to the max which will allow us to cut out some of the material. 
+
+
 
