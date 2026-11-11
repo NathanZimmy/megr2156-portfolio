@@ -90,3 +90,5 @@ After running another test the cutouts actually raised our stress and deflection
 <img width="418" height="323" alt="image" src="https://github.com/user-attachments/assets/9c2af9dd-95a3-4ff7-b1e6-e3fc1445713b" />
 
 Here is the drawing of the optimized crosshead model.
+
+## Lessons Learned
