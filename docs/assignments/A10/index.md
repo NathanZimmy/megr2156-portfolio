@@ -205,3 +205,6 @@ After running another test, the cutouts actually raised our stress and deflectio
 Here is the drawing of the optimized crosshead model.
 
 ## Lessons Learned (Nathaneal Zimmerman)
+
+The biggest thing I learned from this assignment is that sometimes your reworks or optimizations don't always work. When running the FEA, I got a stress value that I wanted to lower. It wasnt necessary that I did so but we wanted to as a group anyways. But every iteration we made, or effort we tried to fix it, actually made it worse. And while trying to fix other problems, such as weight reduction, it actually made different problems worse as well. But that seems to be part of engineering, where trial and error happens to be the solution.
+
