@@ -40,7 +40,7 @@ A finer Mesh for convergence -
 
 2. Shift in Critical Locations - There was not any major shift in critical locations that would cause any portion of the frame to become misaligned with the critical parts of the design.
 
-FEA: Side Bars of the Frame
+### FEA: Side Bars of the Frame
 
 Model Setup: The Forces fixture geometry was reversed from the top of the frame and is shown below
 
@@ -54,7 +54,7 @@ A more fine mesh for convergence:
 
 <img width="223" height="482" alt="image" src="https://github.com/user-attachments/assets/3702cea7-ff5e-41ae-8733-c786c1624baa" />
 
-Results to Report -
+### Results to Report -
 
 1. Von Mises Stress:
 
@@ -68,7 +68,7 @@ Results to Report -
 
 4. Brief Discussion: The stresses and deformation was slightly higher here than they were on the top part of the frame which was a little surprising because the forces do not act directly on the sides as they do on the top, but the sides are much longer so it does line up with the calculations from earlier. I would not change anything at this time because the factor of safety is still high and there are no stress concentrations in critical areas where I could end up seeing a failure point.
 
-Optimization Pass -
+### Optimization Pass -
 
 1. Targeted Changes: I would target to leave these alone as they work for the assignment and in the past when I tried to get fancy with designs using my limited CAD skills, it has caused me more headache than help. Therefore, since all necessary target points are within constraint, I will be leaving this side portion of the frame in place to ensure that the Tensile Tester works properly if we were to actually build this in real life.
 
@@ -108,3 +108,5 @@ To test the fitments and clearances I ran a quick assembly to make sure everythi
 <img width="555" height="459" alt="image" src="https://github.com/user-attachments/assets/2b70ec34-f98c-440f-a354-52b1c6c6cdb1" />
 
 Here is the motor and motor mount mated to the assembly.
+
+[CAD Files Here](https://github.com/AustinW-UNCC/megr2157-portfolio/blob/main/Final%20Assembly%20A10.SLDASM)
