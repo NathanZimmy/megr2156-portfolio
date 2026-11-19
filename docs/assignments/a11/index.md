@@ -37,3 +37,7 @@ Lastly I added fillets to all the outer corners with a radius of 4.5mm to match 
 <img width="1025" height="410" alt="image" src="https://github.com/user-attachments/assets/4c8192ad-9ff0-48d5-a808-764dcea9bf26" />
 
 To test the fitments and clearances I ran a quick assembly to make sure everything looked good and fit properly. 
+
+<img width="555" height="459" alt="image" src="https://github.com/user-attachments/assets/2b70ec34-f98c-440f-a354-52b1c6c6cdb1" />
+
+Here is the motor and motor mount mated to the assembly.
